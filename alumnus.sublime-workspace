@@ -1,0 +1,3245 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"É",
+				"Événement"
+			],
+			[
+				"glo",
+				"glob"
+			],
+			[
+				"title",
+				"title2"
+			],
+			[
+				"$_",
+				"$_\tCOOKIE['…']"
+			],
+			[
+				"check",
+				"checkdnsrr〔function〕"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"fetc",
+				"fetchall"
+			],
+			[
+				"fa-ge",
+				"fa-genderless\t<i>"
+			],
+			[
+				"fa-grn",
+				"fa-genderless\t<i>"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"$",
+				"$_\tPOST['…']"
+			],
+			[
+				"is",
+				"isUser"
+			],
+			[
+				"thi",
+				"this\tempty"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"ov",
+				"ovx\toverflow-x: ${1:hidden};"
+			],
+			[
+				"$res",
+				"$restrictedPages〔variable〕"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"th",
+				"this\t$(this)"
+			],
+			[
+				"sc",
+				"scroll\t.scroll()"
+			],
+			[
+				"scro",
+				"scrollTop\t.scrollTop()"
+			],
+			[
+				"tab",
+				"table-cell\tdisplay"
+			],
+			[
+				"f",
+				"float\tproperty"
+			],
+			[
+				"in",
+				"inline-flex\tdisplay"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"c",
+				"contents\t.contents()"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"querySele",
+				"querySelectorAll\t(selector: \"a\") => NodeList<HTMLAnchorElement>"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"pass",
+				"password_hash〔function〕"
+			],
+			[
+				"str",
+				"strpos〔function〕"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"i",
+				"if\tif …"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"hr",
+				"header\tTag"
+			],
+			[
+				"read",
+				"ready\t$(document).ready"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"dict",
+				"enchant_dict_check"
+			],
+			[
+				"el",
+				"getElementById〔function〕"
+			],
+			[
+				"on",
+				"ontimeupdate\tAttr"
+			],
+			[
+				"onmouse",
+				"onmouseover\tAttr"
+			],
+			[
+				"r",
+				"remove\t.remove()"
+			],
+			[
+				"onmo",
+				"onmouseover\tAttr"
+			],
+			[
+				"$tra",
+				"$tran_id"
+			],
+			[
+				"emp",
+				"empty〔function〕"
+			],
+			[
+				"A",
+				"AutoScroll"
+			],
+			[
+				"sel",
+				"self〔argument〕"
+			],
+			[
+				"attr",
+				"attributes()\txml"
+			],
+			[
+				"Se",
+				"Settings"
+			],
+			[
+				"Fol",
+				"Folder"
+			],
+			[
+				"File",
+				"Files"
+			],
+			[
+				"F",
+				"File"
+			],
+			[
+				"Select",
+				"Selection"
+			],
+			[
+				"ch",
+				"children\t.children()"
+			],
+			[
+				"o",
+				"o:f\tObject Method"
+			],
+			[
+				"can",
+				"canvaswidth-scale*2)*Math.random()+scale*2"
+			],
+			[
+				"Get",
+				"GetPosition"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"a",
+				"after-comment"
+			],
+			[
+				"htm",
+				"htmltidy"
+			],
+			[
+				"tr",
+				"transparent〔value〕"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"aut",
+				"autofocus\tAttr"
+			],
+			[
+				"preg",
+				"preg_match_all〔function〕"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"disa",
+				"disabled"
+			],
+			[
+				"str_re",
+				"str_replace〔function〕"
+			],
+			[
+				"$n",
+				"$nbAdults〔variable〕"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"parse",
+				"parseInt〔function〕"
+			],
+			[
+				"bra",
+				"bxsh-ra\tbox-shadow: ${1:inset }${2:h} ${3:v} ${4:blur} ${5:spread }rgba(${6:0}, ${7:0}, ${8:0}, .${9:5});"
+			],
+			[
+				"trs",
+				"trs\ttransition: ${1:prop} ${2:time};"
+			],
+			[
+				"0",
+				"000"
+			],
+			[
+				"ab",
+				"absolute\tposition"
+			],
+			[
+				"get",
+				"getWallX〔variable〕"
+			],
+			[
+				"sta",
+				"statusbar〔variable〕"
+			],
+			[
+				"us",
+				"userId"
+			],
+			[
+				"nb",
+				"nbChildren"
+			],
+			[
+				"PLACE",
+				"placeId"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"SIGN",
+				"SIGNIN"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"inc",
+				"incl1\tinclude_once …"
+			],
+			[
+				"$bui",
+				"$builder"
+			],
+			[
+				"d",
+				"dir"
+			],
+			[
+				"ech",
+				"enchant_dict_check"
+			],
+			[
+				"parent",
+				"hw_GetParentsObj"
+			],
+			[
+				"pare",
+				"class_parents"
+			],
+			[
+				"class",
+				"class\tclass …"
+			],
+			[
+				"method",
+				"get_class_methods"
+			],
+			[
+				"pa",
+				"packages"
+			],
+			[
+				"http",
+				"http_request"
+			],
+			[
+				"days",
+				"daysKeys"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"htmlenti",
+				"html_entity_decode"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"glob",
+				"global"
+			],
+			[
+				"array_fill",
+				"array_fill_keys"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"FA",
+				"FA"
+			],
+			[
+				"getEleme",
+				"getElementsByClassName"
+			],
+			[
+				"random",
+				"Random"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"de",
+				"degy"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"Ar",
+				"3Arc-Fusil"
+			],
+			[
+				"D",
+				"Display"
+			],
+			[
+				"T",
+				"Type"
+			],
+			[
+				"S",
+				"Skills"
+			],
+			[
+				"animation",
+				"animation-fill-mode"
+			],
+			[
+				"ci",
+				"clip"
+			],
+			[
+				"an",
+				"animation-fill-mode"
+			],
+			[
+				"ani",
+				"animation-iteration-count"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"animatio",
+				"animation-direction"
+			],
+			[
+				"al",
+				"alternate-reverse"
+			],
+			[
+				"inf",
+				"info_blue"
+			],
+			[
+				"e",
+				"extra-condensed"
+			],
+			[
+				"fot",
+				"font-family"
+			],
+			[
+				"cur",
+				"cursive"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/inc/header.php",
+			"settings":
+			{
+				"buffer_size": 9195,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/classes/Gallery.php",
+			"settings":
+			{
+				"buffer_size": 4348,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/css/addons.css",
+			"settings":
+			{
+				"buffer_size": 20643,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/classes/Events.php",
+			"settings":
+			{
+				"buffer_size": 7738,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/fancybox.js",
+			"settings":
+			{
+				"buffer_size": 183830,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/inc/footer.php",
+			"settings":
+			{
+				"buffer_size": 13705,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/gallery/index.php",
+			"settings":
+			{
+				"buffer_size": 777,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/events/index.php",
+			"settings":
+			{
+				"buffer_size": 7648,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/inc/langs.json",
+			"settings":
+			{
+				"buffer_size": 11795,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Launch Chat",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Launch %NAME%",
+					""
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					""
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"JSON"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"Property List"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"YAML (Block Style)"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"YAML (Default Style)"
+				]
+			],
+			[
+				"Launch %NAME%",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Launch Chat",
+					""
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					""
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"JSON"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"Property List"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"YAML (Block Style)"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"YAML (Default Style)"
+				]
+			],
+			[
+				"Launch Chat",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Launch Chat",
+					""
+				],
+				[
+					"Run Prompt",
+					""
+				]
+			],
+			[
+				"Launch Chat",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Launch Chat",
+					""
+				],
+				[
+					"Run Prompt",
+					""
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					""
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"JSON"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"Property List"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"YAML (Block Style)"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"YAML (Default Style)"
+				]
+			],
+			[
+				"Launch Chat",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/MarkdownPreview/Markdown.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/MarkdownPreview/Markdown.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Super Test",
+					""
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					""
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"JSON"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"Property List"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"YAML (Block Style)"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"YAML (Default Style)"
+				]
+			],
+			[
+				"Super Test",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"summo",
+				"Floobits - Summon Everyone"
+			],
+			[
+				"join ",
+				"Floobits - Join Recent Workspace"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"emmet",
+				"Emmet: Split\\Join Tag"
+			],
+			[
+				"merge",
+				"Emmet: Remove Tag"
+			],
+			[
+				"bala",
+				"Emmet: Balance (outward)"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"HexVi",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"floobits - ",
+				"Floobits - Follow User"
+			],
+			[
+				"summon",
+				"Floobits - Summon Everyone"
+			],
+			[
+				"summ",
+				"Floobits - Summon Everyone"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"project",
+				"Project: Edit Project"
+			],
+			[
+				"Launc",
+				"Build With: Launch Chat"
+			],
+			[
+				"lea",
+				"Floobits - Leave Workspace"
+			],
+			[
+				"su",
+				"Floobits - Summon Everyone"
+			],
+			[
+				"recent",
+				"Floobits - Join Recent Workspace"
+			],
+			[
+				"coll",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Join re",
+				"Floobits - Join Recent Workspace"
+			],
+			[
+				"yaml",
+				"PackageDev: Convert to YAML and Rearrange Syntax Definition"
+			],
+			[
+				"set js",
+				"Set Syntax: JSON"
+			],
+			[
+				"convert",
+				"PackageDev: Convert to YAML and Rearrange Syntax Definition"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"Terminality",
+				"Terminality: Browse Commands..."
+			],
+			[
+				"Terminu",
+				"Terminus: Open Default Shell in View"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"terminal",
+				"Terminal: Open"
+			],
+			[
+				"shuff",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"rep",
+				"Package Control: Remove Package"
+			],
+			[
+				"snak",
+				"Snippet: Object-key-key-value"
+			],
+			[
+				"",
+				"Build With: Run Prompt"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"into view",
+				"Terminus: Open Default Shell in View"
+			],
+			[
+				"hex",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"snake",
+				"Snake: Start Game"
+			],
+			[
+				"refres",
+				"Side Bar: Refresh"
+			],
+			[
+				"sna",
+				"Snake: Start Game"
+			],
+			[
+				"package control:",
+				"Package Control: Enable Package"
+			],
+			[
+				"debuggee",
+				"Debugger: Open"
+			],
+			[
+				"Debugger",
+				"Debugger: Install Adapters"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ecsstra",
+				"Run eCSStractor (without BEM Nesting)"
+			],
+			[
+				"Terminal",
+				"Terminal: Open in project folder"
+			],
+			[
+				"SET SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"floobits",
+				"Floobits - Share Directory (Public)"
+			],
+			[
+				"remote",
+				"Remote: Connect to Session"
+			],
+			[
+				"IP",
+				"Package Control: Install Package"
+			],
+			[
+				"HexV",
+				"HexViewer: Set Bits Per Group"
+			],
+			[
+				"hex v",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"new ",
+				"PackageDev: New Main Menu File…"
+			],
+			[
+				"snipp",
+				"Set Syntax: Sublime Text Snippet (XML)"
+			],
+			[
+				"set jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"snip",
+				"Snippet: XML Processing Instruction"
+			],
+			[
+				"sni",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"set xml",
+				"Set Syntax: XML"
+			],
+			[
+				"confi",
+				"Material Theme: Configuration"
+			],
+			[
+				"palette",
+				"Color Helper: Show Palettes"
+			],
+			[
+				"inp",
+				"Package Control: Install Package"
+			],
+			[
+				"set m",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pl",
+				"Sound: Play"
+			],
+			[
+				"set ",
+				"Set Syntax: Python"
+			],
+			[
+				"cha",
+				"Sound: Change soundset"
+			],
+			[
+				"sou",
+				"Sound: Change soundset"
+			],
+			[
+				"Sound",
+				"Sound: Change soundset"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"hex ",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"PackageDev",
+				"Preferences: PackageDev Settings"
+			],
+			[
+				"co",
+				"Material Theme: Configuration"
+			],
+			[
+				"conf",
+				"Material Theme: Configuration"
+			],
+			[
+				"hex t",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"qui",
+				"QuickCal: Lookup"
+			],
+			[
+				"the",
+				"Theme Scheduler: Show Next Change"
+			],
+			[
+				"Set pl",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"Set wi",
+				"Set Syntax: WingDings"
+			],
+			[
+				"case",
+				"Convert Case: Upper Case"
+			],
+			[
+				"h",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"drp",
+				"Discord Rich Presence: Disconnect"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"se cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"Gol",
+				"Set Syntax: Git Log"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"dpack",
+				"Package Control: Disable Package"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"to h",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"edit h",
+				"HexViewer: Show Hex Edit Panel"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"set ma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"Discord",
+				"Discord Rich Presence: Disconnect"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Q",
+				"QuickCal: Lookup"
+			],
+			[
+				"pacckage",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"ar",
+				"Arithmetic"
+			],
+			[
+				"ari",
+				"Arithmetic"
+			],
+			[
+				"user p",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"Floobits",
+				"Floobits - Request Code Review"
+			],
+			[
+				"Floo ",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"floobi",
+				"Floobits - List Users"
+			],
+			[
+				"Snipp",
+				"Snippet: New Class"
+			],
+			[
+				"Side Bar",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"\tS",
+				"Side Bar: Refresh"
+			],
+			[
+				"Arithmet",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"Arith",
+				"Arithmetic"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sUBLI ",
+				"Set Syntax: Sublime Text Macro (JSON)"
+			],
+			[
+				"set co",
+				"Set Syntax: COBOL"
+			],
+			[
+				"Set Syntax: Sublime Text",
+				"Set Syntax: Sublime Text Syntax Definition (YAML)"
+			],
+			[
+				"Set Syntax: ",
+				"Set Syntax: Oniguruma Regular Expression"
+			],
+			[
+				"sn",
+				"Snippet: while let … = … { … }"
+			],
+			[
+				"REIN",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Code Folding",
+				"Code Folding: Unfold All"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"set py",
+				"Set Syntax: Python"
+			],
+			[
+				"INS",
+				"Package Control: Install Package"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"A File Icon:",
+				"A File Icon: Settings"
+			],
+			[
+				"M",
+				"Material Theme: Extras"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 418.0,
+		"history":
+		[
+			"parseInt(5)",
+			"parseInt",
+			"dir()",
+			"info()",
+			"if (4>3) str(\"hey\")",
+			"int.conjugate() + 5",
+			"float",
+			"print(\"ok %f\", hey)",
+			"hey.to_bytes(3, \"little\") + \"3\"",
+			"flush()",
+			"cls()",
+			"cls",
+			"40*4",
+			"1+1",
+			"5+5",
+			"5*5",
+			"clear()",
+			"console.log(5+30)",
+			"on_run_command(console.log(5+30));",
+			"on_run_command(console.log(5+30))",
+			"5+5",
+			"d",
+			"jj",
+			"!!",
+			"!",
+			"print(\"Hey\")",
+			"print",
+			"hey",
+			"int()",
+			"flush()",
+			"clear()",
+			"cls()",
+			"c",
+			"float",
+			"print(\"ok %f\", hey)",
+			"print(\"ok %d\", hey)",
+			"print(hey, \"ok %f\")",
+			"print(hey, \"ok %d\")",
+			"print(hey, \"ok\")",
+			"print(hey + \"ok\")",
+			"print(hey+ lol)",
+			"print(hey)",
+			"print",
+			"\"ok\" + \" hey\"",
+			"bytes",
+			"byte",
+			"hey.to_bytes(3, \"little\") + \"3\"",
+			"hey.to_bytes(3, \"little\") + 3",
+			"hey.to_bytes(3, \"little\")",
+			"hey.to_bytes(3, \"big\")",
+			"hey.to_bytes(3, \"asc\")",
+			"hey.to_bytes(3, 1)",
+			"hey.to_bytes(0)",
+			"hey.to_bytes(10)",
+			"hey.to_bytes(1)",
+			"hey.to_bytes()",
+			"hey.real()",
+			"hey.numerator()",
+			"hey.imag()",
+			"int.denominator() + 5",
+			"int.denominator(4) + 5",
+			"int.conjugate(4) + 5",
+			"int.conjugate() + 5",
+			"char",
+			"object",
+			"str",
+			"int",
+			"hey.denominator()",
+			"hey.conjugate() + 5",
+			"hey.conjugate(5)",
+			"hey.conjugate()",
+			"dir(3)",
+			"open(hey)",
+			";",
+			"exit",
+			"hey",
+			"hh",
+			"hey",
+			"30 / hey +2",
+			"30 * hey +2",
+			"5 * hey",
+			"hey = 3",
+			"var()",
+			"var(hey) = \"lol\"",
+			"var hey = \"lol\"",
+			"var",
+			"*3",
+			"4+3",
+			"5 +1",
+			"info()",
+			"info",
+			"view.indentation_level(0)",
+			"view.indentation_level(1)",
+			"view.indentation_level(5)",
+			"view.indentation_level()",
+			"dir(view)",
+			"view.is_valid()",
+			"view.is_valid",
+			"if (true){}",
+			"if (true)",
+			"if (4>3)",
+			"if (4>3){open()}",
+			"if (4>3){open();}",
+			"if (4>3) open()",
+			"if (4>3) true;",
+			"if (4>3) true",
+			"if (4>3) str(\"hey\")",
+			"if (4>3) \"hey\";",
+			"if (4>3) \"hey\"",
+			"if",
+			"4 <= 2",
+			"4 < = 2",
+			"5 > 1",
+			"view.is_valid",
+			"\"hey\" > view.is_valid",
+			"dir(view)",
+			"dir()",
+			"\"hey\" > view.txt",
+			"\"hey\" > str.txt",
+			"open(view)",
+			"open('is_menu_visible')",
+			"open(is_menu_visible)",
+			"\"is_menu_,nm:klvisible\"",
+			"\"is_menu_visible\"",
+			"is_minimam",
+			"EOL",
+			"delete",
+			"close"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/laragon/www/alumnus",
+		"/C/laragon/www/alumnus/public",
+		"/C/laragon/www/alumnus/public/chat",
+		"/C/laragon/www/alumnus/public/events",
+		"/C/laragon/www/alumnus/src",
+		"/C/laragon/www/alumnus/src/trait"
+	],
+	"file_history":
+	[
+		"/C/laragon/www/alumnus/src/inc/globals.php",
+		"/C/laragon/www/alumnus/src/js/functions.js",
+		"/C/laragon/www/alumnus/public/chat/index.php",
+		"/C/laragon/www/alumnus/public/chat/server.php",
+		"/C/laragon/www/alumnus/signin/index.php",
+		"/C/laragon/www/alumnus/src/css/addons.css",
+		"/C/laragon/www/alumnus/src/inc/footer.php",
+		"/C/laragon/www/alumnus/src/trait/gallery_add.php",
+		"/C/laragon/www/alumnus/src/js/addons.js",
+		"/C/laragon/www/alumnus/src/classes/Users.php",
+		"/C/laragon/www/alumnus/public/gallery/index0.php",
+		"/C/laragon/www/alumnus/public/events/index.php",
+		"/C/laragon/www/alumnus/signin/css/main.css",
+		"/C/laragon/www/alumnus/src/js/fancybox.js",
+		"/C/laragon/www/alumnus/src/js/darkreader.js",
+		"/C/laragon/www/alumnus/public/profile/editform.php",
+		"/C/laragon/www/alumnus/src/trait/users_edit.php",
+		"/C/laragon/www/alumnus/src/css/style.css",
+		"/C/laragon/www/alumnus/src/inc/langs.json",
+		"/C/laragon/www/alumnus/src/js/Color.js",
+		"/C/laragon/www/alumnus/src/js/main.js",
+		"/C/laragon/www/alumnus/src/inc/header.php",
+		"/C/laragon/www/alumnus/src/classes/Events.php",
+		"/C/laragon/www/alumnus/alumnus.sql",
+		"/C/Users/insan/Downloads/alumnus.sql",
+		"/C/laragon/www/alumnus/src/classes/Gallery.php",
+		"/C/laragon/www/alumnus/public/chat/signin.php",
+		"/C/laragon/www/alumnus/alumnus.sublime-project",
+		"/C/laragon/www/alumnus/.floo",
+		"/C/laragon/www/adminer4.7.1/adminer-4.7.1.php",
+		"/C/laragon/www/alumnus/src/form/changepass/index.php",
+		"/C/laragon/www/alumnus/dashboard/index.php",
+		"/C/laragon/www/alumnus/dashboard/tables.php",
+		"/C/laragon/www/alumnus/src/classes/Builder.php",
+		"/C/laragon/www/alumnus/dashboard/constants.php",
+		"/C/laragon/www/alumnus/src/classes/Manager.php",
+		"/C/laragon/www/alumnus/public/profile/index.php",
+		"/C/laragon/www/alumnus/src/form/reset_confirm/index.php",
+		"/C/laragon/www/alumnus/src/fancybox-master/docs/index.html",
+		"/C/laragon/www/alumnus/src/form/reset/index.php",
+		"/C/laragon/www/alumnus/src/trait/resetpwd.php",
+		"/C/laragon/www/alumnus/indicator/reading-position-indicator.php",
+		"/C/laragon/www/alumnus/index.php",
+		"/C/laragon/www/alumnus/public/error.php",
+		"/C/laragon/www/alumnus/src/js/plugins.js",
+		"/C/laragon/www/alumnus/src/css/fancybox.css",
+		"/C/laragon/www/alumnus/src/fancybox-master/README.md",
+		"/C/laragon/www/alumnus/src/fancybox-master/dist/jquery.fancybox.css",
+		"/C/laragon/www/alumnus/src/fancybox-master/dist/jquery.fancybox.js",
+		"/C/laragon/www/alumnus/signin/js/main.js",
+		"/C/laragon/www/alumnus/src/var.php",
+		"/C/laragon/www/alumnus/src/trait/users_resetpwd.php",
+		"/C/laragon/www/alumnus/src/trait/users_sendmail.php",
+		"/C/laragon/www/alumnus/public/gestion/index.php",
+		"/C/laragon/www/alumnus/public/gestion/events/editform.php",
+		"/C/laragon/www/alumnus/public/gestion/events/index.php",
+		"/C/laragon/www/alumnus/public/gestion/gallery/editform.php",
+		"/C/laragon/www/alumnus/public/gestion/gallery/index.php",
+		"/C/laragon/www/alumnus/public/gestion/notes/index.php",
+		"/C/laragon/www/alumnus/public/gestion/users/editform.php",
+		"/C/laragon/www/alumnus/public/gestion/users/index.php",
+		"/C/laragon/www/alumnus/public/gestion/users/sendmail.php",
+		"/C/laragon/www/alumnus/signup/index.php",
+		"/C/laragon/www/alumnus/src/trait/changepwd.php",
+		"/C/laragon/www/alumnus/src/trait/events_add.php",
+		"/C/laragon/www/alumnus/src/trait/events_del.php",
+		"/C/laragon/www/alumnus/src/trait/events_edit.php",
+		"/C/laragon/www/alumnus/src/trait/gallery_del.php",
+		"/C/laragon/www/alumnus/src/trait/gallery_edit.php",
+		"/C/laragon/www/alumnus/src/trait/resetpwdconfirm.php",
+		"/C/laragon/www/alumnus/src/trait/users_add.php",
+		"/C/laragon/www/alumnus/src/trait/users_del.php",
+		"/C/laragon/www/alumnus/dashboard/css/sb-admin.css",
+		"/C/laragon/www/alumnus/signin/vendor/select2/select2.js",
+		"/C/laragon/www/alumnus/.htaccess",
+		"/C/laragon/www/alumnus/src/trait/login.php",
+		"/C/laragon/www/alumnus/public/index.php",
+		"/C/laragon/www/alumnus/public/gallery/index.php",
+		"/C/laragon/etc/apps/phpMyAdmin/examples/openid.php",
+		"/C/laragon/www/alumnus/public/events/cal.css",
+		"/C/laragon/www/alumnus/public/events/cal0.css",
+		"/C/laragon/www/alumnus/public/events/cal0.php",
+		"/C/laragon/www/alumnus/public/events/cal.js",
+		"/C/laragon/www/alumnus/public/events/cal0.js",
+		"/C/laragon/www/alumnus/public/events/index0.php",
+		"/C/laragon/www/alumnus/public/cal.php",
+		"/C/laragon/www/alumnus/public/cal.js",
+		"/C/laragon/www/alumnus/public/cal2.php",
+		"/C/laragon/www/alumnus/public/cal.css",
+		"/C/laragon/www/alumnus/public/events0.php",
+		"/C/laragon/www/lang.txt",
+		"/C/Users/insan/AppData/Roaming/Sublime Text 3/Packages/Terminality/Terminality.sublime-settings",
+		"/C/laragon/bin/php/php-7.2.19-Win32-VC15-x64/php.ini",
+		"/C/wamp64/www/alumnus/.htaccess",
+		"/C/wamp64/www/alumnus/.htpasswd",
+		"/C/wamp64/www/alumnus/src/classes/Manager.php",
+		"/C/wamp64/www/alumnus/src/inc/langs.json",
+		"/C/wamp64/www/alumnus/src/css/addons.css",
+		"/C/wamp64/www/alumnus/signin/index.php",
+		"/C/wamp64/www/alumnus/src/trait/login.php",
+		"/C/wamp64/www/alumnus/src/classes/Users.php",
+		"/C/wamp64/www/alumnus/src/classes/db_init.php",
+		"/C/wamp64/www/alumnus/alumnus.sql",
+		"/C/wamp64/www/alumnus/src/inc/header.php",
+		"/C/wamp64/www/alumnus/signin/vendor/bootstrap/css/bootstrap.min.css.map",
+		"/C/wamp64/www/alumnus/signin/vendor/daterangepicker/daterangepicker.js",
+		"/C/wamp64/www/alumnus/signup/index.php",
+		"/C/wamp64/www/alumnus/src/classes/Booking.php",
+		"/C/wamp64/www/alumnus/src/classes/Builder.php",
+		"/C/wamp64/www/alumnus/signin/vendor/bootstrap/css/bootstrap.css.map",
+		"/C/wamp64/www/alumnus/src/views/signin.php",
+		"/C/wamp64/www/alumnus/dashboard/404.php",
+		"/C/wamp64/www/alumnus/src/views/signup.php",
+		"/C/wamp64/www/alumnus/dashboard/index.php",
+		"/C/wamp64/www/alumnus/dashboard/tables.php",
+		"/C/wamp64/www/alumnus/dashboard/vendor/bootstrap/scss/_images.scss",
+		"/C/wamp64/www/alumnus/dashboard/vendor/bootstrap/scss/mixins/_image.scss",
+		"/C/wamp64/www/alumnus/dashboard/vendor/fontawesome-free/css/all.css",
+		"/C/wamp64/www/alumnus/dashboard/vendor/fontawesome-free/css/all.min.css",
+		"/C/wamp64/www/alumnus/dashboard/vendor/fontawesome-free/css/fontawesome.css",
+		"/C/wamp64/www/alumnus/dashboard/vendor/fontawesome-free/css/fontawesome.min.css",
+		"/C/wamp64/www/alumnus/dashboard/vendor/fontawesome-free/js/all.js",
+		"/C/wamp64/www/alumnus/dashboard/vendor/fontawesome-free/js/all.min.js",
+		"/C/wamp64/www/alumnus/dashboard/vendor/fontawesome-free/js/brands.js",
+		"/C/wamp64/www/alumnus/dashboard/vendor/fontawesome-free/js/brands.min.js",
+		"/C/wamp64/www/alumnus/dashboard/vendor/fontawesome-free/less/_icons.less",
+		"/C/wamp64/www/alumnus/dashboard/vendor/fontawesome-free/less/_variables.less",
+		"/C/wamp64/www/alumnus/dashboard/vendor/fontawesome-free/scss/_icons.scss"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 148.0,
+		"where_history":
+		[
+			"C:\\laragon\\www\\alumnus\\signin\\",
+			"-C:\\laragon\\www\\alumnus\\public\\gestion",
+			"",
+			"C:\\laragon\\www\\alumnus\\signin",
+			"",
+			"C:\\wamp64\\www\\alumnus\\src\\trait",
+			"",
+			"alumnus"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fancyModal",
+			"fancyModal slideModal",
+			"time()+",
+			"data-fancybox",
+			"false",
+			"3",
+			"add",
+			"3",
+			"$g",
+			"$event",
+			"2",
+			"title2",
+			"1",
+			"2",
+			"header(\"location: $this->ROOT/home/gestion/events/\");",
+			"Gallery",
+			"1",
+			" enctype=\"multipart/form-data\"",
+			"1",
+			".blue",
+			"$gallery",
+			"gallery",
+			"titlur1e1",
+			"isset",
+			"\"",
+			"text",
+			"question",
+			"subject",
+			"msg",
+			"$msg",
+			"gallery",
+			"<style",
+			".msg",
+			".fancybox-can-swipe",
+			"*",
+			"'",
+			"password_",
+			"$data",
+			"\"",
+			"firstname",
+			"config",
+			"no INVERT",
+			"INVERT",
+			".stylesheet",
+			"toggle",
+			"adClass",
+			"Logo",
+			"\"",
+			"bg_white",
+			"filter",
+			"code",
+			"sl-",
+			"tr",
+			"@media screen and (mi",
+			"@media",
+			"h2",
+			"a",
+			"#footer arti",
+			"Bebas",
+			"BebasN",
+			"Poppins-Regular",
+			"Poppins-",
+			"Poppins",
+			"color",
+			"999999",
+			"color",
+			"555555",
+			"sendmail",
+			"Fonction",
+			"setcookie('mail'",
+			"setcookie('mail',",
+			"$mail, t",
+			"$mail, time",
+			" $mail, time()",
+			"$mail",
+			"setcookie('mail', $mail, time()+4, '/');",
+			"60",
+			"$_COOKIE['msg']",
+			"$wrongMsg",
+			"[$_COOKIE['lang']]",
+			"Msg[$_COOKIE['lang']]",
+			"lang",
+			"'",
+			"signin",
+			"$userMsg",
+			"$codeMsg",
+			"$tempMsg",
+			"confirm",
+			"$request",
+			"$database",
+			"1",
+			"\"",
+			"$page",
+			"bookings",
+			"URL",
+			"||",
+			"$pattern",
+			"signin",
+			"$nick",
+			"$user",
+			"name",
+			"$page",
+			"$pwd",
+			"']",
+			"$_POST['",
+			"    ",
+			"text",
+			"jour",
+			"edit",
+			"change",
+			"logout",
+			"$.fancybox.",
+			"'",
+			"  ",
+			"      ",
+			"     ",
+			"    ",
+			"   ",
+			"  ",
+			"$.fancybox.open",
+			"msg",
+			"$uManager->sendmailreset",
+			"$uManager->send",
+			"return",
+			"'",
+			"exe",
+			"'",
+			"\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"alumnus",
+			"<?= TRAITS ?>",
+			"users",
+			"gallery",
+			"event",
+			"gallery",
+			"../classes/Users",
+			"alumnus",
+			"TRAIT",
+			"CLASSES",
+			"href=\"http:\\\\www..com\"",
+			"teachers",
+			"students",
+			"gallery",
+			"gallerie",
+			"gallery",
+			"TeAcHeRs",
+			"students",
+			"\"submit\"",
+			"question",
+			"4",
+			"3",
+			"2",
+			"1",
+			"post",
+			"slider",
+			"O",
+			" ",
+			"*****************",
+			"AAAAAAAAAAAAAAAAA",
+			"AAAAAAAAAAAAA",
+			"AAAAAAAAAAAAAAAAA",
+			"A",
+			"",
+			"// ",
+			"Alumnus",
+			"alumnus",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/inc/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4339,
+								4339
+							]
+						],
+						"settings":
+						{
+							"SL.13.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.15.region_keys":
+							[
+								"SL.php.Highlights.%DWB%|392e21108bb54fd76a6143bb72ef44e587953a1db8f3a04a1fbb9d135b00d6ef|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|2cd0f351ff2a59bcf6b108f6ba86b85341f8197b0217034b6d12e4aa8e2266e8|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|986cc8a9e219fe2321bb4814d72b580ea1d1c59c3117b00de57918248e333b0c|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|79cf59ddc811e583d039d0b3f6eb73e7757747f081af9329cdd89ea511742b60|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|3d587e37423c3573502f4bb0a8fafafbb107afa65c6b3756de93fb9ae2a6f0fa|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|f6277814b1926260bfeac0207b28d114d9f2e5f3f788a934f41920b11e00d0e7|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|d2c9dfeb737b8faa8af19e4c10140458524e14f3a40554d499e01dd8101e80b0|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|0b38aff88512a6fd1b467a862ad5eeb6f3b2895b16cc9f4397bac95f547eab45|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|b79e5b2bf1704ba82b87085eca37fd5113bfafb8ef382cce445a4cf5a771ee5e|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|f57ddf84ff098e0ccfc625f3bc7ea9bb8a25eb1e41bdc2e3425a69e5cd88d1d1|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|022c1a10b56d54ace0caa1b441312c808726cf0e4f545c54a23a19444273d8d7|region.redish markup.error.sublime_linter|32",
+								"SL.php.Highlights.%DWB%|03040e4174e267dda3114c0d69f8206fc9812675352d67377b9deb1b059e4020|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|636e2ebec193c97d8da57cbacafd1357d6b4da48b398455b1fc8d2e8420593f2|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|3c37b7d77905df43accb060c1b86e6d0304a075e8f702d0f3755ebe78f124b12|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|10f8bbade6b525336537b54387b92ba45117c149e41d59aed25c5677f27d72d7|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|f6aac70ac94c95070017147eb79310cfc7e4c1c2a9098416e920740a1f92ebe2|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|11476853801a73f83f301601dd0311387634d22d68a10e41c00c175487062481|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|9b0f64f2bf385cd7ce212606d053ff38ee6bb63a161b755a05f05c7c70532c95|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|40556845cab1deb1e15245785ee5ba1d968f74886d4cd1c98cd2222ad3e1c323|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|39a70b9d94dcdf578c90243b35012bdc863f52237838f962bc7b973cd7834da2|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|1a3894d4e31b39dfc1c1c1cbee9be8928cab2945a85f219c9c1db094ce165a13|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|c0e4fdf0d418e66b1de0c9962e3d6f89676741808fe764e30b4070f9e4a388e0|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|bdc4e9c89cb980361d4fa908577afce3d985f418a914c43cd2eaa34cf078f759|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|993be7aaa11d4539ca504fdc9ac34bab29ac925ca79b4aee2b0b5d477cc43629|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|5de48475b3ac1fd06ff0957dcf6f457c44743203b706b9246b60d70069e5773b|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|f750f25e4aed08ff398b99ffd03aad47671894e1f3cb57826a55869ce8e274f6|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|50f0ac83e4b6a6b3e51cb606934a9dcf8276907ada7c95df2ebcae6204c36b36|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|882bc9ce8c1024e1839f75ec532d20cd5fa62e66f2464cce05901dabed4f1312|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|a54f9e4dce412432ed186f301e7fa127b567e9ae802fa9b0555af113b15fbb9c|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|8c68136181c13f2d4c53d8378e59da4af3de307e30c86da0622b53cfaa7a92be|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|9c525fd5fb7414011aa858f2a69b24b6f6646014a041abae82e6866ae8ff86cc|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|c2a5aec1f2970dc62729de9f985deac66d0aa010c03881758c40c89efec0aed5|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|52e1a2855f32c03d684a8ab8a58900afc979fff355952a7ea7fb5c3136cdd9e5|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|b7c9a90741185ab1d725c9fc1f102c2387d3da57290253196cc75cd79a1ee7bb|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|464233845b3d5e71a22505406d6e0de4d92c613a940e9b729d066362bffd9411|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|48b1d673247c5566a3c49796ba2564e411fe247d54b2084dbfefd099c12a1c77|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|8ccdac015a4d424edc83f9d57844557733fc7cfb30ba6fa6e55a1d6f70e0d0dd|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|c67a85bd1c99f6145648b1fe3a2b4f77f702620b25284339d0429c1038eca062|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|9c5ea33e395069125e9f6b71ccc5fb5df68351babe196537c5b991066bf287e5|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|ed79072225448550d0d45f0eecae7435798a18e68858dda5e1f0a66e6d001701|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|91dc0842e0cec518476ee28f95618e6db00f80c23568aba2ad66869548853865|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|4cb5ed98712339dd7f02082cf8e9aba35be2718d21952f97552b5d0de5b2f145|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|2cc2b064a0d87263c68083e51863e33b3a93556008fb67384735d806ae8c1c5a|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|3de4089e6f8067c3ec921cab023a5b2b1ca0440e3808209f9d83bf9308485aab|region.redish markup.error.sublime_linter|32",
+								"SL.php.Highlights.%DWB%|d51f5485acce566c7b9aa6ee85be7652b168615a7e9d0575539412d26d77388a|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|2307d722ff32b5473dc72e1f5dabc57a33e5ce310bc0812bb68ddb7ff935502a|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|1fa17bfcc49fd29ad78a7c65f82dd2fc9523487f8943a527b1a78d2c4a29bf97|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|7a9104315dcd0756f5f1c9013823c77538821da77ba0a036e6089a3643f0ab63|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|eadefa008d466f2304623d58e27e62cc281ed9acb6befb206ed6271bce55448d|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|73d2a272b703d8a9ea1fd4745e3af1349249b9391004fa108bc48c45500719e4|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|0aad1b06654862d7a989e6bc4702b039984d464b6a7531f11d5773fcad95544e|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|1a219cd6a329a29bdd6e7368359e4375fa5b96fb71338d2fc3e8d376dc8798a9|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Gutter.|region.whitish|dot",
+								"SL.php.Highlights.%DWB%|b91ebb7c7e79b67380365acef572eb1f37d6b3af5b601bacd9b05de2fa8b5370|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|4b00fb0a0c72fbb07a43b8189e423184ad8c4c0f8f99dafff6e66b13edc4de4a|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|3e1b7c792e08a0fe97353991aaf2a2c271ddbec4c7d801243eb6fa1ace99c41a|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|8cc92d73265089a20e6ecd40f2b08b138fed70f8b84337421ec2a1d4f52eec16|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|f1971b5d5530f02096c7403763fa82d6d2b186932b2ce04f8521216314d43249|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|38ffeaa6ec4ef24deef297da2ecc70fa9fbb964b989f179b5e8c32524be5fad6|region.redish markup.error.sublime_linter|32",
+								"SL.php.Highlights.%DWB%|f63c7050b20a062a4315e7d4757c4561afefca880c77b3354b1ee24edddd22d2|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|c8b1149fd64abe8cbba6d125ddf59d9965d1f33efaf9bcfdcb60b7eaf74a5b73|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|e2d9769b4816efbff9f3b2e4a182a919cf671e7c8b0068e5a12cc8fc3881630d|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|9dffce65065b3175ecdaf998a71319160428552d78a22ccc94fce578a1480dfb|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|de494b353acfdb889b125b6439b21b893c935e35e4f10a94c11e3eb494a9252a|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|ed5d5e6c827fabe9ec2825c4c3e2b5907e0450e15c1699d730f073f2e15da909|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|d30799b769cc1d5bd9d4f8b4ca756c54bf0de8c8738caa2cbe72a8253f958de4|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|d19419950e7d38aee1c9c9833a18aca03eb05e8e49e1667b93cce04df7969641|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|be574f3a93d78bcc9a2e0bb9523932f15be65beb4deeef52950187e5332a51a4|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|34365638fcbc158d9fd2d38962eb3a42cf1bfbadb15bdc49980b3ee24bdbd587|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|4b4969d25f1f626502bf703b3a89c832380b623bc8ef5c2a98b0ab6bcca37fa4|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|0bd60092250eb630b2bcbe1c789345f2c3ec4f365e2dbbf73f35edd6cb0160d3|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|fd8e70301feccdd586fa2bd0f5f3d1d18ca9d1ff0adae722b523c34b6165e152|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|3b7665f6c34f9d6ce75c22ccc49475ed60116ef5f883edcc09fcca5abfc40c2a|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|b8bc9545a9f399e467d99c1ec992191e47e758f2a0991ef592d888ce6c42772e|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|e4b6b90fe2146e5eb612c7d1227e2475a67a89c8ea14a3fb0f7703112479aa8a|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|95b1ed51be8858f2a537cefcfd1d24433cbcf7eb037ec5f56233e673681e13e7|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|b35b6aba2b2da7ca04e5fa64c72c333c0f2e149066b05b0dbc070b5e9946ac48|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|6d9ae6205d9d9fd5808d4a754556bc5fd241ee8c51e734fee4f5b33fb331d50a|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|fa2f27bb0bc1db7ed2c717c3ef194319ee0312e960fc67bdd942a40d6c54458c|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|3d117b2446f382ff8d1ce71c3d93a6adf8f87ebf1e145f25e81b6e97ac7619b5|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|4f3b0fd5aff1a49894849f7c2f86651f49757e8213fcd192e8c4522424e85aa6|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|703b793c11920832e52063090d9badd3c521abc8eea13f1d82bacbfad8b9914e|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|ccdc23cbeb35934d518c262d991b011464339411958ec9b75faf964b90f21db6|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|78ef3c29f7fc6e5eee10670042f09aca459c8374613ef692555a6f0afa91a42e|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|fb5f85914acc5e7fa5d9935bc10bfbb00bfa5d072669421c95e9a3745f692e0e|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|465f4c69bc910891ddbda9c3f68b55ef756a083d7aa38f889a9d5c5b14aacb86|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|5d3f934bc01a35c66e511bfce282e66cbff8ae153eb6b245632d638cbd037f6d|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|aa3b984a411d8714f99f0d1266cfc800764df3a9b7ce02ab6b11d18592a7fbd2|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|d2e3492c6fee7097fc50ac7a3d16c9487fcf05d1235392049ced710abb66ba10|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|9ad01281cd8605dc423f9228000ea44149dee76d409b73f87d7d8424924becae|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|83946d67f77343a27d2db09562f2150e052d6ee72b17cabc37560976e20d103a|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|ba3bbb1669f0a512e05b1df34b6d6b3f3c594b446aa647e5fae254f12eb06577|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|10fdaa49231b840abf8305aa9f49d1967ac3e9370952a51af97126e765b5fe52|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|b88621fa972154c7caa4e690f94570c94e158ec8ebe5fe526a27853010db2945|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|3b52870315df31992d84f00590beec3e0b27cf9edbf08b69458a1251ee171c21|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|56e43b550ef91a2f3477b98c97d5eafe79357963e526c095baee25ae7b431637|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|da8f0832e58c35b002a7b9309f712f86c436de41d9fb030822b5389fc08a0ef2|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|a95e2fcb2e3cc857f6cf95b2828cf498017b35d7b655e632f978fa9e3413c75e|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|77962f220a668e3e69bab97ec1ff31a668bb5da67e5790b6225f70a62a7ed43c|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|f33848fa93ab693560edc2f0683abd4e719d407c21b3f7b625bd4f87a8706506|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|09de12461c434b6bfbdcbaee1fda042556f26e01b09ac41b3d7d2a53243ab75e|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|a59367aa8f5c24aecd563ab10f061ac613b33ed3b85ed82b16ac1deef58718d6|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|5e2fb398d3bcb35804560326cfab98e273d0cd1f00aee90b087aab9b568decdc|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|58642ab878b5e128e3055a11753b6fa2e6e94e69cde4fb7d718aed1c3dc34d2a|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|d5469c04e4aecaf5b988d3eb2ab139ef42344e8bf562ddf252307b67eb31c21f|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|1a61dd6160b56095e3a602e067f8e35045e6ed3c037812467d1c9e5e673b206d|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|e71c02aa0377a63f66c6e5df7d0ad38ddb2d2ec651011b63d003114a89e94bb2|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|367015756bfb9bec5c7b88856ebe9c9a7f15e1d81d2d055c6ebcc2c8a82e6c49|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|86b3621d9a7ec049ac2741b2fd5e87e9b3e74f479667f39cbbae4a104c949239|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|5c7798ad6de947645e5bdf1ca920583f3446213c07932f9fda577ebbeab26562|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|5c92d2ee709ae18ddab75b5d31548a79b218c6e207887490dd33bba1f88bdcaf|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|959859e91593dd5788e0a5d10f7a49b8410deedf3e8ce7b5b4e2c148f9bd93b4|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|edbc66137587c2a398abe23c480a5f000f81515ccb53049cc1e500437971e7cf|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|ba5cea973f76680a9253f33bc9691c9a7434a57978c599f449069401fda9ea49|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|8a7b6e4c4a39ef6f5ddbd081f9e83e5cd892b44c59bf5ce28bb6138ae7a62318|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|008722a89f41d48bfbb1cda7ec8c3391aeac8317740f05aadc55523a536292ad|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|ef28e28b8526e8502fce421f9f32b310805588cd34462739aae3d8578876f15c|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|e3f4256dda737fe407e048e6497d2db5ba77c83237dab2db41f1472b68e54f82|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|95b9139012bd9d64de524c245251186627ca9d52733a8f92442127bee3ad8311|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|04918dcc96e966e0d3510e907d03303bec5d55cd785b762c51bd03716f566a34|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|16e302c1a6b0148417ea7b41fbfe350ec0136372d42fa76fad4f9cbc62971091|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|942f6036ccfc5652ca7b3f307bb154e3aa851bc6fe3a1aa033ea5656fba068fe|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|0e31c224bc2c75754e3a008a356e289f92d97ccc8fca2d8f468710923ce70512|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|ed1da4270b2d2dc7f31fbcee251aef9565a5425b973a8f12ae873c8b46b9ff5d|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|0dbaad79a1c448239213c4fd1f1d065d664dc6592bd57ca418347f7257444dbe|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|224cbb81c5f219f0de6eb0c211cb916b58c3bf81fcdc1e5f8fdfa96083032420|region.redish markup.error.sublime_linter|32",
+								"SL.php.Highlights.%DWB%|1dbf5e56efad0fa13f961bd7f71a14a679cf37bc562c5e779e294723245b8ee2|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|98ce2c1737e2aeb48715aa5346c83c396ab016f0838ffde69f484ac8839596c8|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|8829d5f89fa5024dff1a25917fbfe594b55389c62139ac0634b5036fcbccd24f|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|cd9aa167ea99f8682bf2569014bf798085ee39488ffcd2925cb8c64942047101|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|2f299de92a6ddf7237eb1ce6299013f6cabea9dbb7027a6e337cc8e23e4a8953|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|352454d81d9f8a3d025844996fa9b92c3a7db81570eff2c7f393b3626c94d194|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|680de364ad176cbadc3234b5640e7953692c10bed39150196655cd908efe61a9|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|84bffc7b424840f86f9d2bdffcdb2add3c90b7b3c4c185d3a064ff1e21344833|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|7b96b483d39a3a414fb488bfaa6e31cbfcdc03cd7fc138f39e28217a8fa40948|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|db09c76cf27adc966b6769cc2cf74ba8d0f513a5ec9ea0250a33bb323867a5e2|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|e1166a1fb1f00974576736b7dc23882e6ea57c2add4c421e6f54a6e5906442dd|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|09bb0e4435e25faaf1af1047ba0abc8233a4225fdc1855fed98bbf4b0ddf426d|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|2911026e55566b89dbcd6f350b8b6f02b60dd8e6d460f354733914e6ae76b251|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|71369e2f8d81dc3816184e638d30a765e1fd56c6b640c2457a05248664354a8c|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|90e82d61aa55bab38d2a680dafe07e5ed7945aee42c2357e9588ddbfdb86bd23|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|d6e359f3e7e00bee0d6a227c969d3c045458596d3be98c8ae484931495e8043c|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|c50546c4a708648d863ca9dfa4b6949dc1249e4309161a1ca0e748f8b001d4e3|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|ee56bf735abb85aef1787d2ad8587b331edbb16111b7f304871d36fbde1577b8|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|feaeb9c8a727ce44a4d981c743cd494361425bc9861cecb8da2b113570714471|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|1ef0e0602787f70bdd0e60fd0e2593262e20dd152f5692b2b1c32600965c01b0|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|9eadc1a0554f570fbae0b42b0478987570076a580717e4a40fe22f131b7ab87d|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|a74df8ba8997b6a78bd5cc689290c5066c0083e5c11e15ba412e17c765009117|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|51c98cad062f331bec6144fe09f8c299b5ae7731171034a99f464ba71fe37853|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|566a93407a209bb5bba57ddad52494f1828aec40ad921302dd3690a1bbcc52ba|region.redish markup.error.sublime_linter|32",
+								"SL.php.Highlights.%DWB%|8923662c304da78369f24b1367a25f9025231b06001f963e834b18dd57019b89|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|9d05dee09ae1cae1e9e930826acc645be49f21a95f6d4a3b738d596de2dcf9a4|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|d4298a03b4be0f80b729a316b16ea89d06d6a24134f3c997997e7d57d14daa25|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|acba0e237c9ec815ccfd4700ad727e8d27c4c8f09a8e0cfe5e2bb0cba730f4d8|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|1486c39aeb976de5acf1f0b9366373a9befce170ee6c099e27d089beeb2f80c0|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|53e7a96d02500c0964b336ffb182f8c12365dd28bf5dd7cc2579f34daf80c932|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|4ad799af8cb0edee161ac0d2409ea1584d169483d03dbebeb2654b95bf7e6a41|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|90056864263b4846224f752412fdcbe0f3419211cc89371277fc80096cab2be8|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|8d88e4216736ce78bd352e4a18d28e45dd7d68e95d89a65cf59441517f63d94a|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|2fa6db1b6499546ccbf71b706d3b17487ec757b939d2fae42db3be5fcba73452|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|681be0d9d57a0c2b198100a01ecc140089b691677bd9b42750344881bcc1d58e|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|669da100e09fde13f92de2d2ecddee4e3e8d48bef755275fdc62c64587618c1d|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|2932b92d85133ec3d50d1b960cdf1af46765862d3e17e7ff5b434c5351e041a9|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|a1ecfd5c43c535b9fcc691f7a8ff1e80dadce8034ce97d22285dab4c904bc7da|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|f1fcb201d3fdbe975b7f40869332193b388de7fb4f9acbbf6b65e9abcaf85d77|region.redish markup.error.sublime_linter|32",
+								"SL.php.Highlights.%DWB%|d37138b7441f0a614e9e909be954467f6064c0f0d85fcf361b8a1af7af8d7300|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|f6780c27e3dd53621fbb46b37e2561dbe6ead16d6c76fd77d635ca7659aeb284|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|11ecc7d0d45974c808593fab4936dbd07eff9b92c04aeae0c95586a5c17ffca2|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|3de1b99db81cb5a596769c7996c5d4a980a5730e45955085982123f482a35f0a|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.php.Highlights.%DWB%|707d16567ac38746a46af9c1c14221993db0fab629c39698dbc858bc4975906a|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|8e02d030600c38209a775e1aa416250d275ae2e7e0e5f63323c5ddc85e756054|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|d88a45b34efd6897bbac8d6bb75ef4d202a5dba8ca79def010474b2fecbd7865|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|a559ead715300fbd4eae3ea13ff1267bd3885509c7a0aa717d94df488c28dabe|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|dde8e2037fa507665d3a809dafa51e88ef1a84ea2c500d404e38669c2783f3d3|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|3547d280baff3ed6e7f4c91d90275b3b4fab6e38f83c27c874793b69dd076faf|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|911ef37c36ccc019206e7057f01f08407a554744bf389c77471a74471701fae3|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|62205dc258f058e80358289992562affd2851c930bd9dd01c8859808b74f8b5d|region.redish markup.error.sublime_linter|32",
+								"SL.php.Highlights.%DWB%|5af14a5246774555de7259fc37d1a76ed205c6bd5446a1227f604fbd3fb11f27|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|e4c480392c555b5dc8e7a58ffe280a5a02c9a74d363a4a605468c762ab7fd025|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|686b6448610d3e1beeb5be040f8f304ae080f7468374a4a61b11befec24dfec6|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|80139a3c00ac4a10953bf36213d3369195b9d3a4e6b1d2b272efc0ee2df95db9|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|301dadd1c543047eefa48391fedcb477e2d6413c6b3308ac5bdc4f691fc22107|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|25bc5f869e41622ba128f2ce832962c9066a4bba63057643c28a548d399a8306|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|ef20ee83e1b82b839c1b9eb48b97b5ccc386d749caf1fb860f23d59cad7ac72b|region.redish markup.error.sublime_linter|32",
+								"SL.php.Highlights.%DWB%|8ba31c1073d272b2ec9e0b9610091c9ef3ad4c8fa7e10a6267bdc412dd096d36|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|be5663debd1856c599f99d77e038990369a3984caebafa55c0252f746cf9be05|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|7e66c052d150864756a2e3d281cf959f39062461a2edc3409b281df02aafe7f7|region.redish markup.error.sublime_linter|1316"
+							],
+							"SL.26.region_keys":
+							[
+								"SL.php.Highlights.%DWB%|a9e4e16d0e12eb043d352582ee260210293a708fcb3bf30d03f15d1c64abce25|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|f0da4e43228e3fe9b11bff7fba804743dedc80136795be6259dc196057b44caf|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|7b94c092f09b834d3ed579d81cb0ec6b16de3203f3fe0c10994cccbdd7208471|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|c951ac1e5aef201777b979e08378e868e91d1fd8521b2a5bed4b9e7b183e7047|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|d7e0aef92464fb1c0963d41d1d0d61e910acdcf5352bd10355a70b0e0536432c|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|93463248c1bf60cdf74526d26ee18760cc4f6a102948ff9e3e07c8e11a5c4020|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Gutter.|region.whitish|dot",
+								"SL.php.Highlights.%DWB%|744cb875488da9240bd3f479cce3237bdcc6eb1dea0803524f472654c346261b|region.redish markup.error.sublime_linter|1316",
+								"sublime_linter.protected_regions",
+								"SL.php.Highlights.%DWB%|95a561c52052d3160a557db1ee3fb348c62f298f269ec47dae1a590632236a5b|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|6ae0979eb4f81a079bc14e2c1740dd821ae49b918ad589b7ddf37396a3933f23|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|0cb28e6260bd7017b6dc79d0a5e3c129cd0a31d1139695a8696115be1647ef8f|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|87e9c22c0226a172c7de10bc2aedbd8c572c5a049304e14c666938d8ebfea057|region.redish markup.error.sublime_linter|1316"
+							],
+							"SL.54.region_keys":
+							[
+							],
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"color_helper.box_height": 14,
+							"color_helper.color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hsla",
+									"hexa_compressed",
+									"hex_compressed",
+									"gray",
+									"hwb",
+									"webcolors",
+									"hwba",
+									"hsl",
+									"rgba",
+									"graya",
+									"rgb",
+									"hex",
+									"hexa"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".php",
+								"current_syntax": "PHP/PHP",
+								"enabled": true,
+								"last_updated": 1574101633.19,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1730.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/classes/Gallery.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1771,
+								1771
+							]
+						],
+						"settings":
+						{
+							"SL.28.region_keys":
+							[
+							],
+							"SL.31.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"color_helper.box_height": 14,
+							"color_helper.color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hsla",
+									"hexa_compressed",
+									"hex_compressed",
+									"gray",
+									"hwb",
+									"webcolors",
+									"hwba",
+									"hsl",
+									"rgba",
+									"graya",
+									"rgb",
+									"hex",
+									"hexa"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".php",
+								"current_syntax": "PHP/PHP",
+								"enabled": true,
+								"last_updated": 1574101633.19,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 504.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/css/addons.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								894,
+								894
+							]
+						],
+						"settings":
+						{
+							"SL.38.region_keys":
+							[
+							],
+							"apply_syntax_touched": true,
+							"color_helper.box_height": 14,
+							"color_helper.color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+							"color_helper.file_palette":
+							[
+								"#00000033@1",
+								"#00000044@3",
+								"#00000066@1",
+								"#000000cc@1",
+								"#006600ff",
+								"#008bc3cc@1",
+								"#008bc3ff",
+								"#008bc4ff",
+								"#00bfffff",
+								"#146c78ff",
+								"#181a1bff",
+								"#1e2d49ff",
+								"#2c416700",
+								"#2c416755@3",
+								"#2c4167ff",
+								"#7e8798ff",
+								"#aaaaaaff",
+								"#ddddddff",
+								"#e6e8ecff",
+								"#ff0000ff",
+								"#ffffffff"
+							],
+							"color_helper.popup_active": false,
+							"color_helper.popup_auto": true,
+							"color_helper.preview_meta":
+							{
+								"736":
+								[
+									8845328382964829864,
+									7,
+									"hex",
+									-4644270864050416082,
+									1,
+									"1574104586.809637"
+								],
+								"859":
+								[
+									6535596819513259700,
+									4,
+									"hex_compressed",
+									-4644270864050416082,
+									4,
+									"1574104646.204144"
+								],
+								"929":
+								[
+									6535826750870053100,
+									4,
+									"hex_compressed",
+									-4644270864050416082,
+									13,
+									"1574105187.45127"
+								],
+								"967":
+								[
+									6535596819633667992,
+									4,
+									"hex_compressed",
+									-4644270864050416082,
+									3,
+									"1574104586.863013"
+								]
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hsla",
+									"hexa_compressed",
+									"hex_compressed",
+									"gray",
+									"hwb",
+									"webcolors",
+									"hwba",
+									"hsl",
+									"rgba",
+									"graya",
+									"rgb",
+									"hex",
+									"hexa"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".css",
+								"current_syntax": "CSS/CSS",
+								"enabled": true,
+								"last_updated": 1574101633.19,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/classes/Events.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7738,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4556,
+								4556
+							]
+						],
+						"settings":
+						{
+							"SL.151.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.29.region_keys":
+							[
+							],
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"color_helper.box_height": 14,
+							"color_helper.color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hsla",
+									"hexa_compressed",
+									"hex_compressed",
+									"gray",
+									"hwb",
+									"webcolors",
+									"hwba",
+									"hsl",
+									"rgba",
+									"graya",
+									"rgb",
+									"hex",
+									"hexa"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".php",
+								"current_syntax": "PHP/PHP",
+								"enabled": true,
+								"last_updated": 1574101633.19,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 840.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/js/fancybox.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 183830,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183826,
+								183826
+							]
+						],
+						"settings":
+						{
+							"SL.147.region_keys":
+							[
+								"SL.jshint.Highlights.%DWB%|d8ec967667129bfbb8734afddf5949cb5569eed77fcb3f44fee0a0f8b5fb9bc0|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|51e5b37e538b2394092852c6423bed6f8ec22216494ab5599c33a5e7508cc050|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|5e5eb8f481c70b0e59e9133294af7de2c6ebf05aa87323da4a057bfd2f77adb8|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|c7d4a2a4cb58a04ba96c5b2beb13b617daad39d6f979469ab848d2a683f7c6e5|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|b54985464dd00ec2b6fa05830ca166fdc7604a93296c4073393ebe0038db3766|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|3a0b5a7adbdc50f4788ad657659436b779a39cbb75ced567e0464b067e4c3f50|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|6774c71f59ccea4a60e35bae7e052829f2083b6092d42521ef7e47375494e28a|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|c8977aa2234311f8391d19389cf3e0b8b5c3da3f2475e95e8d6e7339379a6729|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|8317c85c22641c68124dbd2547bcb1d38faf08adde259964924ac674ed4478c8|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|9ad5c0cc924925a8d989bff100debf78e5927c6055d056e7fadd877551d38251|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|eba67b608481726b717f8e4388238db1783eddc54e639218c7a39b86997238db|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|5fcedeaaf91a207e030b73ab026369c8f8773111d911bfb21c79c62fbc8cf47c|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|e68031768b14183602872373dbcb7fa4c45406645737d68e71aa6c630aae2ce3|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|086791a3ea9c0b7ea56c56fad671481e2c6df3e1ec750b40a5c2e21e81f2604d|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|a8111807ae98b13023aeda5a886babde9d42a380ed4320868a8373d9a2cc2aac|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|0ab0bfed0f09f8e0a9e4ecaec24d5fc4991776b8b79a1158d61b1f2f7017bc06|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|b61dc9752bad775777a40940dd30e77ce774426668fdc015ec3b50ade08b7281|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|77095812bf93d841fd47200812929ba4d9ed7ca35130f87ec120badbc362408a|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|6422831b4489f63fdb5bc2a5f9a59d9bc616e7571a96cb37b2b71087e04c0e62|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|7f8179880205ff47f51b555e58a64c1b660aa3ecd7e701e1ae4b33cb5757a53f|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|2851497976ef7757bc60952ba3cd44fa733ecbec497c6798563bd105b15df9e6|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|81e55dc6c428b48a050eab072a498ec215b0857dbb7864dc93aa118c6232bdf8|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|bf96ab9b157b755c035ad6812c597bc28f3693e9cf96f87c63979d593be700fa|region.yellowish markup.warning.sublime_linter|1316",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Highlights.%DWB%|02c876e1afb82b18a424dea1e5200721b2aaee059aabee48a4851d841a5b0f67|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|fc2e72f184475767e2894f33c0b74cd7db14c00da1eb0b9e6441c77ceafde68d|region.redish markup.error.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|a9f3a109edc9caacb304c429b19d3f372d6308d3f1df5af43f4ebe07b216b36a|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|e44706ee6821bbe1a764544e935ba2d77ba08bb1a3abf487d39047c14583e63f|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|ca1f62429320279f060fa929864c13e1f2e7d89a7db290fac01c751751555148|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Gutter.|region.whitish|dot",
+								"SL.jshint.Highlights.%DWB%|bf1238f405639afb762390b56faf4f76efd8570a4ba09e673087098575f157e5|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|e956b6174d4f077f69595a725144b4f20610e799da474fdffbb4f806f350aa05|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|d158ea0993c7a91cb6a4406d73677cdc59d8aabb2150d72a086bcebdbf9539d8|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|91edbbeafc3b68aea91b9a5fc756a2b5be173578537c58d3578bf4e2bd713c97|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|13a9f68bd650756be426d5ff785119208f52f160cda9c400894feaa9d61846bd|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|3bfb910eb06e780d8cddcdc14dee168749dbcec5a0af44720b0a9a6741548684|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|d69c00e0efe5056c3f1ceabc3dbdcd6e36790dc10c1e4fac517eb3b8e8c3d265|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|72f05cc2a7c5ecf3c48a79aeb5b3ecf6c320011cf49dd933ed3bac28ea9dd2ed|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|d7bca354b6ad96d5a44bfefd7d20f9cd33719f9a62e69ad7457ed0cc4f86af37|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|c4ca5aee1bec780dbc355dbf57b5660416a1695f487822326ed7120f0362cb95|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|4f6c85c2443a8310fb1e186bd8a43b9b4a57ce400fbe8ba50454ba2f59438b86|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|e553399726944ffbb1b7d2877afeb5f963564ff3eca5d99cfc6ee6ea439914ad|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|63675b00008dee2e8280b25c631c94d3d17f55947a80bf0c3a31be692299d9cb|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|0086743732e4a03e908410fa8756dcb39bc2d1a05d657808a41cf90ed83b2b6f|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|0d6f63a5ca0d872c3a7e1075bf699a6a12a2f3523271ebc103cfbebab0ec56de|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|d54a73d3353f1b0f9e3dc21f2f143ec716d1fa8197429eb5dcf0466309cd76f4|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|5abba296c0bf0189defd73e3af4b7f0cfbc635ab21237575512c4853a7e1b539|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|1a5c869b7ee80455b2048306dbc4dacc3ca1690a85fcf60d9bac540cf8d6c9a9|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|8ab340716b35f0fa6e1b444244ab3cebf5d6c92ebc7966f202ed4c4fea15bd34|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|044c257a06d907c0c82ddd4f3b58efee09abcbd70d00ba17cffdc5f28f7d7f9c|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|ff2e78d7eaa2a920d3d04032608d57f460eb28cec954ad78acdc3f776864671f|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|c600b712abda16885822bc9c190eaf6b147904e6b9afeaeeb816823394abf56c|region.yellowish markup.warning.sublime_linter|1316"
+							],
+							"SL.30.region_keys":
+							[
+								"SL.jshint.Highlights.%DWB%|755c0f85be4eae2cdaf03bbc141e0ba561c00e1756b716ae40a0f86d8efaa55e|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|69726dafc84685f3b4fcdfbf80f18ecbfa01a564a2ca5e93156bf4de154c04c1|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|5691153f0a0092dbbe9f532894b179b870c91ee938da0c48db48182a2df64396|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|561bf659df6d82f11d11ea936f5e9983efd38d7c120ee5b993a4a1af15033f43|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|bc0501277a53a9f4497d1f8c105018c8d69a47782dc67aab59611aff5a7710f8|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|06bc5e1bc7eba82a5c38098a3dc52804c40976d2726b1fb5401371bee9c20cb5|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|ca1f62429320279f060fa929864c13e1f2e7d89a7db290fac01c751751555148|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|68924875e2749cc9f44e4426ce50e10bc5701ebaef95fcc16234eea92e570692|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|d54a73d3353f1b0f9e3dc21f2f143ec716d1fa8197429eb5dcf0466309cd76f4|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|d7bca354b6ad96d5a44bfefd7d20f9cd33719f9a62e69ad7457ed0cc4f86af37|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|0086743732e4a03e908410fa8756dcb39bc2d1a05d657808a41cf90ed83b2b6f|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|042280e5479eb1b90c51c8287737d8f4629d19b7f1cc05cff65242c3955c5be9|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|ea2b42f2b3e74f82ab39f19f66864f41ab3be25685cf0c3965b5aee4b3392a3d|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|ff2e78d7eaa2a920d3d04032608d57f460eb28cec954ad78acdc3f776864671f|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|b9010bbcc75428530f18f2c896a7e1f650423acc5356d56facf69e9f24a5e162|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|e956b6174d4f077f69595a725144b4f20610e799da474fdffbb4f806f350aa05|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|af5f31b3dd9735d6d8a2ceda2546f2311def0b73035ba46683492d654aaaca1f|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|eb1868db6c37c0b7bc77ebcf7ccc138141982238e4eed0ff5bc18696a40fe598|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|8317c85c22641c68124dbd2547bcb1d38faf08adde259964924ac674ed4478c8|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|16ebadd4a33278aec2cb138257ba9bba639dc3c8e41a07c0b23cf0cdeea339eb|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|bac5605678fe46f3ceba9c9b72d4cb33c8c82da0dd127c78338b2bacbabb0124|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|3a0b5a7adbdc50f4788ad657659436b779a39cbb75ced567e0464b067e4c3f50|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|755584197bf6cdc6a6bad2695220d7d2769b4b18514cda25216118f139b42030|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|cc47ae0678bbab1e07dd1ff604d6c620eafbea734dacb6abad4f9601b2d22437|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|1bd10dc44ee702cd37f43867558a47db0e0fcc0550ecdbfd3c1b0ec1082f2267|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|fa7a8bdfd6bd6ec0daaf07f0ab4c40ec57bf169568e59319714f355260a42458|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|2b6413f4e40c48e93b56c10edd3c87a074abd8224481158e118b15e4e7d0123e|region.redish markup.error.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|28764c7cbe473c8a395ef8984f641d8ddfcab3a003149cb0336f621d9853f120|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|c600b712abda16885822bc9c190eaf6b147904e6b9afeaeeb816823394abf56c|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|bf1238f405639afb762390b56faf4f76efd8570a4ba09e673087098575f157e5|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|1a5c869b7ee80455b2048306dbc4dacc3ca1690a85fcf60d9bac540cf8d6c9a9|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|91edbbeafc3b68aea91b9a5fc756a2b5be173578537c58d3578bf4e2bd713c97|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|f59d65cfda09233b4e3c961d61e565cc55373231289b7e959503d549f95132c5|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|5b0efa9a34b41c09003c88aaf371eeefad87b66b2e1a4c7d85a56ae9bae7839b|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|d158ea0993c7a91cb6a4406d73677cdc59d8aabb2150d72a086bcebdbf9539d8|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|81e55dc6c428b48a050eab072a498ec215b0857dbb7864dc93aa118c6232bdf8|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|7a7be1c427af3f3f9c3e1afbb8d5a94a06c428694565340bfe17cbf4c764b03c|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|563ecb716584f3de5f17b628807ebd1686daebb9fdfb0c853541f5185e8783fa|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|e0f177a9389a83d8d7254727b042d22e21797fa5293da1ad691693da722dc062|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|86a4dfd34c065b49bda59aca4c8bd23371647ba4682ded33429d6fdc51a7bec4|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|72cf20730bb486f67efc85f9ad19fbc17ce2324a9c21d087441e0a5ec41ddf80|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|044c257a06d907c0c82ddd4f3b58efee09abcbd70d00ba17cffdc5f28f7d7f9c|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|ebc444af809da76c26c92acf376023f80b389843e3f2c060aedcc95945e66e0f|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|5716f02cc2b662ed7ed4568dc514c20d6d96847ca1e746dd3e3d49a6e3a58e1d|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|78a8f1940105201317a9b1cc729ff6420e3d7de9eabf85581399c7ad7f160ce3|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|70864b3a87025ece4717f363c33e275f8616f55fed5c1148c3bafef4aede6471|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|ef403190b55b2f86fc377bf021afe4472604ac4a51821f7638150c6980d793a1|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Gutter.|region.whitish|dot",
+								"SL.jshint.Highlights.%DWB%|4134149207990bbfdc193dc6b54fca59710b09fe80a97d47cfd99df348bb6a1d|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|d69c00e0efe5056c3f1ceabc3dbdcd6e36790dc10c1e4fac517eb3b8e8c3d265|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|3ae9123ec8f618bda016aae8c744fb57a3b0ff7ef885077db037319da8318116|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|d59745b750a1e6cbfa247cecfcc64c620040f4569a1043148384457223e846cf|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|ef003e241559aef37f64d64e5870974456bd22612c9cb81c2b8010639128cbd8|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|c6c673326592bffa389c3f92a3559e3c056f3a48ef1a46ccee0aaf3b825cc191|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|717f2178907f4a39ad552a217eca3f90619b44fee9117432d7eb35c17721b361|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|27c70639aa9d8dbc87778007bb77d532b7bb533c1439d920dce3d0b37bd1ad2b|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|5370f33e9b9d7ed4b9e0c7e3fd3f6cb240a0275af4610d29dae2c27b368a5366|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|887028185f05eabbda8c09afd02ffb09f2c18a94ed72a832e3ba7425cbaab116|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|047cfd42937747e24975337362c924031e3ba062e82b62ec49562c2c6394c440|region.redish markup.error.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|b61dc9752bad775777a40940dd30e77ce774426668fdc015ec3b50ade08b7281|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|02352b13d6e789c9bc0f55ba6d0f7834866f2db4a718129cc2e16864759a594e|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|af0da3eafc453adc4a4de2d2367cf86d02d06531c749497eb3fc3c202c5e5270|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|6422831b4489f63fdb5bc2a5f9a59d9bc616e7571a96cb37b2b71087e04c0e62|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|7f8179880205ff47f51b555e58a64c1b660aa3ecd7e701e1ae4b33cb5757a53f|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|045335cf35776a64eb21bf7188c7bee55e183e804045103e8dfc5844b7a798b4|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|6130475fd2ded0462442f7fc8b7bddd0c28ebf50f7e27114d8a6ca0799459c9e|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|51e5b37e538b2394092852c6423bed6f8ec22216494ab5599c33a5e7508cc050|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|6774c71f59ccea4a60e35bae7e052829f2083b6092d42521ef7e47375494e28a|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|2851497976ef7757bc60952ba3cd44fa733ecbec497c6798563bd105b15df9e6|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|700d23da832330f98cfc61e309630682abf5c2f1b680e34697da5b710f00d42d|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|36a6fa495486f5ad2bd27a4a82e4dac3c6c32f53158eacbcb4014eb36ad3cfe6|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|9f4abfe16ac59a1bbae2f4c1d33158f2894dc646d424b75599c0fc459af052b0|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|fc2e72f184475767e2894f33c0b74cd7db14c00da1eb0b9e6441c77ceafde68d|region.redish markup.error.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|5fcedeaaf91a207e030b73ab026369c8f8773111d911bfb21c79c62fbc8cf47c|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|b24c94dbaedc04da5b54872b56676f51486a5d5932b3f110e97def06f13f0337|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|b7098f948604f14a0b086a2e42ece0f0b8d3f162c3ce65f277bca63c6a0e9537|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|5abba296c0bf0189defd73e3af4b7f0cfbc635ab21237575512c4853a7e1b539|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|c9659cd4622582ebfb544c060e67c7067d9b7c6bc7f36908f395bd67015ad9aa|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|98833558340a87520b09bb7817f30ad171247246142d28d05c67c4c25fe20f05|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|b143d5b563fb0623e809081a7e5b5b768edfcc6a50ef3eb9e69a946a4a73cb8d|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|e44706ee6821bbe1a764544e935ba2d77ba08bb1a3abf487d39047c14583e63f|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|b727bc16b61e5a622af86722a22d406304ff3b63b082db3815be2aed1020765b|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|77095812bf93d841fd47200812929ba4d9ed7ca35130f87ec120badbc362408a|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|8021ba3be05b57f3013eea5f0566bfc9566fe1776150354aba54e322f83f8d1c|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|faddad47ba0fb1f27beb5249e76a7660c4398f02250622055f0eb826b24a0ff7|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|e68031768b14183602872373dbcb7fa4c45406645737d68e71aa6c630aae2ce3|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|eba67b608481726b717f8e4388238db1783eddc54e639218c7a39b86997238db|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|7ae45445bb346fde25d38b28f95a48c8b89f274d687ba3814ee2b01b32ed7f9a|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|b54985464dd00ec2b6fa05830ca166fdc7604a93296c4073393ebe0038db3766|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|bfde9eef9e72fccc5297573908aae10b3bf270bcf46353a4e5c81fe7fd1d0a89|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|2411791475b2352e8d254b6948bc9495eb64f26472edc3d83997445197d138d2|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|1227b5bfe620cc0f2a3b484218304efbefe916b6b2960241b8b964a761bb3cd7|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|c8977aa2234311f8391d19389cf3e0b8b5c3da3f2475e95e8d6e7339379a6729|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|3364216cfd3ccef67c2cbc2281a9a5f83cafa02a3c8d398354bf70643b0fd5dd|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|2a1f7b9ffa305c7e1643ecbf653f14c4d9041c7d3e7399a2a406f2b6e6bb1f45|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|4535094f2aa4a9becb8889947195ad19674884dfce69879ea622c6351b48e297|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|49bf5bf2beeb3386eb6a00092bad27e7f97796d7c1597f7c54d1dfbf253a368e|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|086791a3ea9c0b7ea56c56fad671481e2c6df3e1ec750b40a5c2e21e81f2604d|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|3bfb910eb06e780d8cddcdc14dee168749dbcec5a0af44720b0a9a6741548684|region.yellowish markup.warning.sublime_linter|1316",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Highlights.%DWB%|79712a13d005efe9fdf6ec22707f4b3a5da93155340ba41196df9e68b049691d|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|703137890f1a772195a59a5bfdec1268f3cdc0a04eaf11511134fbe576250748|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|f629e23e33db75b72077b73ff9364e3efe0902d03d0a1041e6434cde3e21a1a6|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|5fc9d3c8d4b18e51fa11ad910a14ff8a132795efe5c02cf304486eff99a18a65|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|a9f3a109edc9caacb304c429b19d3f372d6308d3f1df5af43f4ebe07b216b36a|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|b859769e8ca554a70c797308e8f34adb2fa52644d571727e8bde519f8651219e|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|5e5eb8f481c70b0e59e9133294af7de2c6ebf05aa87323da4a057bfd2f77adb8|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|a58913264635601999495b59ff10182fcb19ebabaa7a86bb792115ea80bf06bc|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|c1c858e178952e5a30f023fb06ef82062e7f9b5a0b0abcf247e9263cadd61961|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|e70382d214c1574bb7d8ebf84cfb62c72d207bda976d685d87b5401bbebdeded|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|ef54e09bb54fe638b4067a318a91c0d3b6ef1d655fdd8d21ab13c844088a758c|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|643245cbc94839fd8ae36a29f86067b1ffc4257a3876fd03992550cdb69ed76a|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|63675b00008dee2e8280b25c631c94d3d17f55947a80bf0c3a31be692299d9cb|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|091c77a4ca3f75efb01d94bcf0a2b1ec04c1aa95f1af98caf0ba270106d25aa2|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|9ad5c0cc924925a8d989bff100debf78e5927c6055d056e7fadd877551d38251|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|f2d28031f901e14e6d1d96c58414a5900da1f5df3303dd9af0f62c611ba1c35b|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|170ad882cb2f1c2c1e8cf9610bd8b5b47679861bb8e027d3d7de5275626525d1|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|0d6f63a5ca0d872c3a7e1075bf699a6a12a2f3523271ebc103cfbebab0ec56de|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|7b4dc1bdb62fbcb321c4b23f7685ffc7d279c2590d83f1c8dc4739fe554e0c5d|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|4f6c85c2443a8310fb1e186bd8a43b9b4a57ce400fbe8ba50454ba2f59438b86|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|a2f22164532739c467f2bd27520df4e61db8759bad7d42894352c429dbb23c52|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|c82226a575a30a34f32eafa84d833d760ab2180d5f9c20e0d021f2ac268a4ecc|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|72f05cc2a7c5ecf3c48a79aeb5b3ecf6c320011cf49dd933ed3bac28ea9dd2ed|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|8ab340716b35f0fa6e1b444244ab3cebf5d6c92ebc7966f202ed4c4fea15bd34|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|4f87d350283fac0b3af33479be00d3679c384816e80f2d2f7a4904571010911a|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|fb2d00bafd5998f620ad4f329eb67006644fd4a7a1c8e364f8ab88d1593836d3|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|e16adffce2331b1ae9f92562f9cc1ae37036f69aa13ccbc02120267cc137ef35|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|daf474480949e4be15425b4de997cdb9b34cee64619d9f40cdb7229f3944d4bc|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|02c876e1afb82b18a424dea1e5200721b2aaee059aabee48a4851d841a5b0f67|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|be8eaea5352dc68eda013ecfdc304a274761d3c1e5d14bdea9915a7d6d74ff8a|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|c7d4a2a4cb58a04ba96c5b2beb13b617daad39d6f979469ab848d2a683f7c6e5|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|483bc0d6da74ef244f112c8134eb3f43eba01eeefb006228b0befc11fd97325c|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|d0ad591fe8e13a9c8b73e133947d11e27cfc32ba6b9e52f45c908cc40dc8d8ba|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|a8111807ae98b13023aeda5a886babde9d42a380ed4320868a8373d9a2cc2aac|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|d8ec967667129bfbb8734afddf5949cb5569eed77fcb3f44fee0a0f8b5fb9bc0|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|c09aacffcda89064a4c97b13e135b63b6f77d0569de6ac06389fa265771c19f7|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|0ab0bfed0f09f8e0a9e4ecaec24d5fc4991776b8b79a1158d61b1f2f7017bc06|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|f87a356a0daf1d6f16ac9a731c09ed35e47f7afc7704335f36dd0566919b55cf|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|36a4ad20b9dbe84f0ad2cc740fe503be0174334b03b02e1bc309cba1cf6c61ce|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|0cd91a1b03a970bd940764790b8938fb67f0362e6e5df1489d44b692b68f5280|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|9878fd43c1f44babc0d5d759f12e039c3f1cef7adcc681210bd4e2cce9cba8fc|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|f8a412ad00866c6942738a0e3c38c554485cad830b5700beb92526a4a6db642e|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|e76b7a70497ecd31fe6fe43befa1c193a0217762a865069183401b8c5267cfd5|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|ed82ea61e48b1d18c011bbfebba845368b1f3a39446459a8db9e72530775f22e|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|e951cfdcf790757e333eb8387c9ad3697a93551eef396853312cfd084e422e66|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|66ad39c1d67706be2a66c026a3e4218441411858e55a07a3c65503c0409717f3|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|bf96ab9b157b755c035ad6812c597bc28f3693e9cf96f87c63979d593be700fa|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|c4ca5aee1bec780dbc355dbf57b5660416a1695f487822326ed7120f0362cb95|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|fc3dd21faa48a68d240d1d3d52d6acf91c5ea5feb56cb084c9e3b5c4f2bec1d5|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|13a9f68bd650756be426d5ff785119208f52f160cda9c400894feaa9d61846bd|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|e553399726944ffbb1b7d2877afeb5f963564ff3eca5d99cfc6ee6ea439914ad|region.yellowish markup.warning.sublime_linter|1316",
+								"SL.jshint.Highlights.%DWB%|448614189e1c97876b3a5c92ecd70a61a76c7524de43da467d25aaad8282567d|region.yellowish markup.warning.sublime_linter|1316"
+							],
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"color_helper.box_height": 14,
+							"color_helper.color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "JavaScript/JavaScript",
+								"enabled": false,
+								"last_updated": 1574101633.19
+							},
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 60490.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/inc/footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13705,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9257,
+								9257
+							],
+							[
+								9952,
+								9952
+							]
+						],
+						"settings":
+						{
+							"SL.145.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.php.Gutter.|region.whitish|dot",
+								"SL.php.Highlights.%DWB%|b00905b8a49bf717a98e135fa414178ce158d35c81079d664335dfa342b48d5c|region.redish markup.error.sublime_linter|32",
+								"SL.php.Highlights.%DWB%|ec80146ab678ac3c0caac296cfd5f5530ecae17ed0697f3a1a7e8a33a7591a89|region.redish markup.error.sublime_linter|32",
+								"SL.php.Highlights.%DWB%|2469c21de30a1de68c5a338c046735eb353c80ee11c535510a9fb143ed142e48|region.redish markup.error.sublime_linter|1316",
+								"SL.php.Highlights.%DWB%|dfa69325bf36d3a29e51e9ed6598640d86eb7e825c022fbba868455339abe57f|region.redish markup.error.sublime_linter|32"
+							],
+							"SL.32.region_keys":
+							[
+							],
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"color_helper.box_height": 14,
+							"color_helper.color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hsla",
+									"hexa_compressed",
+									"hex_compressed",
+									"gray",
+									"hwb",
+									"webcolors",
+									"hwba",
+									"hsl",
+									"rgba",
+									"graya",
+									"rgb",
+									"hex",
+									"hexa"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".php",
+								"current_syntax": "PHP/PHP",
+								"enabled": true,
+								"last_updated": 1574101633.19,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1900.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "public/gallery/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								355,
+								635
+							]
+						],
+						"settings":
+						{
+							"SL.29.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"color_helper.box_height": 14,
+							"color_helper.color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hexa",
+									"hex_compressed",
+									"hex",
+									"webcolors",
+									"rgba",
+									"hwba",
+									"hsla",
+									"hwb",
+									"hsl",
+									"hexa_compressed",
+									"gray",
+									"rgb",
+									"graya"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".php",
+								"current_syntax": "PHP/PHP",
+								"enabled": true,
+								"last_updated": 1574016272.78,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "public/events/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1268,
+								1268
+							]
+						],
+						"settings":
+						{
+							"SL.149.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"color_helper.box_height": 14,
+							"color_helper.color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hexa",
+									"hex_compressed",
+									"hex",
+									"webcolors",
+									"rgba",
+									"hwba",
+									"hsla",
+									"hwb",
+									"hsl",
+									"hexa_compressed",
+									"gray",
+									"rgb",
+									"graya"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".php",
+								"current_syntax": "PHP/PHP",
+								"enabled": true,
+								"last_updated": 1574016272.78,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 301.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/inc/langs.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11795,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2518,
+								2518
+							]
+						],
+						"settings":
+						{
+							"SL.30.region_keys":
+							[
+							],
+							"apply_syntax_touched": true,
+							"auto_complete": true,
+							"color_helper.box_height": 14,
+							"color_helper.color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".json",
+								"current_syntax": "JavaScript/JSON",
+								"enabled": false,
+								"last_updated": 1574016272.78
+							},
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 227.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 315.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 209.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 122.0
+	},
+	"output.Terminus":
+	{
+		"height": 116.0
+	},
+	"output.exec":
+	{
+		"height": 371.0
+	},
+	"output.find_results":
+	{
+		"height": 370.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 196.0
+	},
+	"output.markdown":
+	{
+		"height": 134.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.package_dev":
+	{
+		"height": 116.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 196.0
+	},
+	"pinned_build_system": "",
+	"project": "alumnus.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"add",
+				"src\\css\\addons.css"
+			],
+			[
+				"fancy",
+				"src\\js\\fancybox.js"
+			],
+			[
+				"lang",
+				"src\\inc\\langs.json"
+			],
+			[
+				"mai",
+				"signin\\css\\main.css"
+			],
+			[
+				"sty",
+				"src\\css\\style.css"
+			],
+			[
+				"fa",
+				"src\\js\\fancybox.js"
+			],
+			[
+				"fanc",
+				"src\\js\\fancybox.js"
+			],
+			[
+				"ma",
+				"signin\\css\\main.css"
+			],
+			[
+				"foo",
+				"src\\inc\\footer.php"
+			],
+			[
+				"m",
+				"signin\\css\\main.css"
+			],
+			[
+				"main",
+				"src\\js\\main.js"
+			],
+			[
+				"hea",
+				"src\\inc\\header.php"
+			],
+			[
+				"main.",
+				"signin\\css\\main.css"
+			],
+			[
+				"langs",
+				"src\\inc\\langs.json"
+			],
+			[
+				"footer",
+				"src\\inc\\footer.php"
+			],
+			[
+				"f",
+				"src\\js\\functions.js"
+			],
+			[
+				"glo",
+				"src\\inc\\globals.php"
+			],
+			[
+				"header",
+				"src\\inc\\header.php"
+			],
+			[
+				"User",
+				"src\\classes\\Users.php"
+			],
+			[
+				"plu",
+				"src\\js\\plugins.js"
+			],
+			[
+				"globa",
+				"src\\inc\\globals.php"
+			],
+			[
+				"fancybo",
+				"src\\js\\fancybox.js"
+			],
+			[
+				"plugi",
+				"src\\js\\plugins.js"
+			],
+			[
+				"heade",
+				"src\\inc\\header.php"
+			],
+			[
+				"head",
+				"src\\inc\\header.php"
+			],
+			[
+				"fun",
+				"src\\js\\functions.js"
+			],
+			[
+				"h",
+				"src\\inc\\header.php"
+			],
+			[
+				"st.css",
+				"src\\css\\style.css"
+			],
+			[
+				"Events",
+				"src\\classes\\Events.php"
+			],
+			[
+				"a",
+				"src\\css\\addons.css"
+			],
+			[
+				"addo",
+				"src\\css\\addons.css"
+			],
+			[
+				"ad",
+				"src\\css\\addons.css"
+			],
+			[
+				"func",
+				"src\\js\\functions.js"
+			],
+			[
+				"st",
+				"src\\css\\style.css"
+			],
+			[
+				"l",
+				"src\\inc\\langs.json"
+			],
+			[
+				"styl",
+				"src\\css\\style.css"
+			],
+			[
+				"ser",
+				"chat\\server.php"
+			],
+			[
+				"",
+				"alumni.sql"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\wamp64\\www\\canvas\\canvas.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "col-",
+		"selected_items":
+		[
+			[
+				"col-",
+				"col-1"
+			],
+			[
+				"col-1",
+				"col-1"
+			]
+		],
+		"width": 672.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

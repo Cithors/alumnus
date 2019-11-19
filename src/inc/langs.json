@@ -1,0 +1,469 @@
+{
+	"en": {
+		"name": "English",
+		"theme": ["Light", "Dark"],
+		"header": {
+			"dash": "Dashboard",
+			"profile": "Profile",
+			"chat": "Chat",
+			"students": "Students",
+			"teachers": "Teachers",
+			"events": "Events",
+			"gallery": "Gallery",
+			"contact": "Contact",
+			"logout": "Logout"
+		},
+		"index": {
+			"slider": {
+				"text1": "New school year<br><span>2019/2020</span>",
+				"text2": "<span>A living-room</span><br>for the seniors",
+				"text3": "Installing a<br><span>Snack canteen</span>",
+				"more": "More information"
+			},
+			"post1": {
+				"title": "The best learning methods",
+				"text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis quasi architecto beatae vitae dicta sunt explicabo."
+			},
+			"post2": {
+				"title": "Our students' results",
+				"text": "Vero eos et accusamus et iusto odio dignissimos ducimus blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa."
+			},
+			"news": {
+				"latest": "The latest news",
+				"2": {
+					"title": "Number 2",
+					"date": "10 SEP 2018",
+					"author": "Anon",
+					"text": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores (...)"
+				},
+				"1": {
+					"title": "Number 1",
+					"date": "22 APR 2016",
+					"author": "Anon",
+					"text": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores (...)"
+				},
+				"more": "See more",
+				"all": "See all archives"
+			},
+			"events": {
+				"latest": "The latest events",
+				"1": {
+					"month": "m09",
+					"date": 18,
+					"title": "Information meeting",
+					"text": "Students' parents must attend."
+				},
+				"2": {
+					"month": "m11",
+					"date": 18,
+					"title": "Deadline - First project",
+					"text": "Deposit of the first PPE project on the design of an alumnus' site."
+				},
+				"3": {
+					"month": "m12",
+					"date": 31,
+					"title": "Contract",
+					"text": "Everyone should have one by now."
+				},
+				"4": {
+					"month": "m02",
+					"date": 7,
+					"title": "Deadline - Second project",
+					"text": "Deposit of the second PPE project on the design of a pharmacy's application."
+				},
+				"more": "See more",
+				"all": "See all events"
+			}
+		},
+		"events": {
+			"all": "All Events",
+			"add": "Add New Event",
+			"mod": "Edit Event",
+			"cal": {
+				"title": "Calendar",
+				"upcoming": "Upcoming",
+				"archival": "Archival"
+			},
+			"gallery": {
+				"title": "Image Gallery",
+				"more": "See more images"
+			}
+		},
+		"gallery": {
+			"all": "All images",
+			"add": "Add New Image",
+			"mod": "Edit Image",
+			"events": {
+				"title": "Events",
+				"more": "See more events"
+			}
+		},
+		"footer": {
+			"faq": {
+				"title": "The Frequently Asked Questions",
+				"text": "Do you have questions ? Fill up the form and get answers in less than 24h !"
+			},
+			"ufa": "Robert Schuman High",
+			"contact": {
+				"title": "Contact",
+				"address": "5 avenue du Général De Gaulle<br>93440 Dugny",
+				"mail": "administration@lyceerobertschuman.com",
+				"phone": "01-48-37-74-26"
+			},
+			"gallery": {
+				"title": "Gallery",
+				"1": "Students",
+				"2": "Teachers"
+			},
+			"findus": {
+				"title": "Find Us"
+			},
+			"social": {
+				"title": "Social media",
+				"text": "Follow us on social networks !"
+			},
+			"newsletter": {
+				"title": "Newsletter",
+				"text": "Stay informed !",
+				"mail": "Email address...",
+				"submit": "Subscribe"
+			}
+		},
+		"modal": {
+			"contact": {
+				"title": "Request information",
+				"name": "Name...",
+				"mail": "Your email address...",
+				"subject": [
+					"Question(s)",
+					"Issue(s)",
+					"Other (specify)"
+				],
+				"question": "Ask...",
+				"btn": "Send"
+			},
+			"profile": {
+				"title": "Profile",
+				"btn": "Edit"
+			},
+			"edit": {
+				"title": "Edit My Profile",
+				"btn": "Update"
+			},
+			"logout": {
+				"title": "Sign Out",
+				"text": "Are you realy sure ?",
+				"btn": "Yes, I am"
+			},
+			"reset": {
+				"title": "Reset",
+				"hint": "Prefix",
+				"btn": "Send Mail"
+			},
+			"code": {
+				"title": "Verification Code",
+				"text": "Enter the last code sent to your mail inbox",
+				"btn": "OK"
+			},
+			"change": {
+				"title": "New Password",
+				"text": "Create a password different from the old one",
+				"pwd1": "New Password",
+				"pwd2": "Re-enter Password",
+				"btn": "Update"
+			}
+		},
+		"date": {
+			"from": "From ",
+			"to": "To ",
+			"d": {
+				"name": " day(s)",
+				"1": "Monday",
+				"2": "Tuesday",
+				"3": "Wednesday",
+				"4": "Thursday",
+				"5": "Friday",
+				"6": "Saturday",
+				"7": "Sunday"
+			},
+			"m": {
+				"name": " month(s)",
+				"01": "January",
+				"02": "February",
+				"03": "March",
+				"04": "April",
+				"05": "May",
+				"06": "June",
+				"07": "July",
+				"08": "August",
+				"09": "September",
+				"10": "October",
+				"11": "November",
+				"12": "December"
+			}
+		},
+		"signin": {
+			"title": "Sign In",
+			"user": {
+				"name": "Username",
+				"hint": ["sudo", "guest", "anon"]
+			},
+			"pwd": {
+				"name": "Password",
+				"hint": ["test", "random", "*****"]
+			},
+			"forgot": "Forgotten password ?",
+			"btn": "Sign In",
+			"back": "Back"
+		},
+		"msg": {
+			"login": "Login Required !",
+			"wrong": "Invalid Credentials !",
+			"mail": "Email Sent !",
+			"code": "Wrong Code !",
+			"reset": "Password Reset !",
+			"change": "Different Passwords !"
+		},
+		"admin": {
+			"add": "Add",
+			"mod": "Edit",
+			"del": "Delete"
+		}
+	},
+	"fr": {
+		"name": "Français",
+		"theme": ["Lumineux", "Sombre"],
+		"header": {
+			"dash": "Gestion Admin",
+			"profile": "Profil",
+			"chat": "Chat",
+			"students": "Étudiants",
+			"teachers": "Enseignants",
+			"events": "Événements",
+			"gallery": "Galerie",
+			"contact": "Contact",
+			"logout": "Se déconnecter"
+		},
+		"index": {
+			"slider": {
+				"text1": "La rentrée<br><span>2019/2020</span>",
+				"text2": "<span>Nouvelle salle</span><br>pour les BTS",
+				"text3": "Installation d'une<br><span>cantine Snack</span>",
+				"more": "Plus d'informations"
+			},
+			"post1": {
+				"title": "Les meilleures méthodes d'apprentissage",
+				"text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis quasi architecto beatae vitae dicta sunt explicabo."
+			},
+			"post2": {
+				"title": "Les résultats de nos étudiants",
+				"text": "Vero eos et accusamus et iusto odio dignissimos ducimus blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa."
+			},
+			"news": {
+				"latest": "Les dernières nouvelles",
+				"2": {
+					"title": "Numéro 2",
+					"date": "10 SEP 2018",
+					"author": "Anon",
+					"text": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores (...)"
+				},
+				"1": {
+					"title": "Numéro 1",
+					"date": "22 AVR 2016",
+					"author": "Anon",
+					"text": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores (...)"
+				},
+				"more": "Voir plus",
+				"all": "Voir toutes les archives"
+			},
+			"events": {
+				"latest": "Les derniers événements",
+				"1": {
+					"month": "m09",
+					"date": 18,
+					"title": "Les résultats de nos étudiants",
+					"text": "Présence obligatoire des parents de l'étudiant."
+				},
+				"2": {
+					"month": "m11",
+					"date": 18,
+					"title": "Date butoire - 1er projet",
+					"text": "Dépôt du premier projet en PPE sur la conception d'un site d'anciens élèves."
+				},
+				"3": {
+					"month": "m12",
+					"date": 31,
+					"title": "Contrat",
+					"text": "Tout le monde devrait en avoir un à ce stade."
+				},
+				"4": {
+					"month": "m02",
+					"date": 7,
+					"title": "Date butoire - 2nd projet",
+					"text": "Dépôt du second projet en PPE sur la conception d'une application pour une pharmacie."
+				},
+				"more": "Voir plus",
+				"all": "Voir tous les événements"
+			}
+		},
+		"events": {
+			"all": "Tous les événements",
+			"add": "Ajouter un Événement",
+			"mod": "Modifier l'Événement",
+			"cal": {
+				"title": "Calendrier",
+				"upcoming": "À venir",
+				"archival": "Archivés"
+			},
+			"gallery": {
+				"title": "Gallerie d'images",
+				"more": "Voir plus d'images"
+			}
+		},
+		"gallery": {
+			"all": "Toutes les Images",
+			"add": "Ajouter une Image",
+			"mod": "Modifier l'Image",
+			"events": {
+				"title": "Événements",
+				"more": "Voir plus d'événements"
+			}
+		},
+		"footer": {
+			"faq": {
+				"title": "La Foire Aux Questions",
+				"text": "Avez-vous des questions? Remplissez le formulaire et obtenez une réponse sous 24h !"
+			},
+			"ufa": "Lycée privé et UFA Robert Schuman",
+			"contact": {
+				"title": "Contact",
+				"address": "5 avenue du Général De Gaulle<br>93440 Dugny",
+				"mail": "administration@lyceerobertschuman.com",
+				"phone": "01 48 37 74 26"
+			},
+			"gallery": {
+				"title": "Galerie",
+				"1": "Étudiants",
+				"2": "Enseignants"
+			},
+			"findus": {
+				"title": "Nous Trouver"
+			},
+			"social": {
+				"title": "Les réseaux",
+				"text": "Suivez-nous sur les réseaux sociaux !"
+			},
+			"newsletter": {
+				"title": "Newsletter",
+				"text": "Restez informez !",
+				"mail": "Adresse email...",
+				"submit": "S'abonner"
+			}
+		},
+		"modal": {
+			"contact": {
+				"title": "Demande d'informations",
+				"name": "Nom...",
+				"mail": "Votre adresse email...",
+				"subject": [
+					"Question(s)",
+					"Problème(s)",
+					"Autre (préciser)"
+				],
+				"question": "Demander...",
+				"btn": "Envoyer"
+			},
+			"profile": {
+				"title": "Profil",
+				"btn": "Modifier"
+			},
+			"edit": {
+				"title": "Modifier Mon Profil",
+				"btn": "Mettre à Jour"
+			},
+			"logout": {
+				"title": "Déconnexion",
+				"text": "Êtes-vous vraiment sûr(e) ?",
+				"btn": "Oui, je le suis"
+			},
+			"reset": {
+				"title": "Réinitialisation",
+				"hint": "Préfixe",
+				"btn": "Envoyer le mail"
+			},
+			"code": {
+				"title": "Code de Vérification",
+				"text": "Entrez le dernier code qui vous a été envoyé par mail",
+				"btn": "OK"
+			},
+			"temp": {
+				"title": "Mot de Passe Temporaire",
+				"text": "Use the password <code>change</code> for now but change it later !",
+				"btn": "Thanks"
+			},
+			"change": {
+				"title": "Nouveau Mot de Passe",
+				"text": "Créez un mot de passe différent de l'ancien",
+				"pwd1": "Nouveau Mot de Passe",
+				"pwd2": "Entrez à nouveau le mot de passe",
+				"btn": "Mettre à Jour"
+			}
+		},
+		"date": {
+			"from": "Du ",
+			"to": "Au ",
+			"d": {
+				"name": " jour(s)",
+				"1": "Lundi",
+				"2": "Mardi",
+				"3": "Mercredi",
+				"4": "Jeudi",
+				"5": "Vendredi",
+				"6": "Samedi",
+				"7": "Dimanche"
+			},
+			"m": {
+				"name": " mois",
+				"01": "Janvier",
+				"02": "Février",
+				"03": "Mars",
+				"04": "Avril",
+				"05": "Mai",
+				"06": "Juin",
+				"07": "Juillet",
+				"08": "Août",
+				"09": "Septembre",
+				"10": "Octobre",
+				"11": "Novembre",
+				"12": "Décembre"
+			}
+		},
+		"signin": {
+			"title": "Connexion",
+			"user": {
+				"name": "Identifiant",
+				"hint": ["sudo", "guest", "anon"]
+			},
+			"pwd": {
+				"name": "Mot de passe",
+				"hint": ["test", "random", "*****"]
+			},
+			"forgot": "Mot de passe oublié ?",
+			"btn": "Se connecter",
+			"back": "Retour"
+		},
+		"msg": {
+			"login": "Connexion Requise !",
+			"wrong": "Identifiants Invalides !",
+			"mail": "Email Envoyé !",
+			"code": "Code Incorrect !",
+			"reset": "Mot de Passe Réinitialisé !",
+			"change": "Mots de Passe Différents !"
+		},
+		"admin": {
+			"add": "Ajouter",
+			"mod": "Modifier",
+			"del": "Supprimer"
+		}
+	}
+}

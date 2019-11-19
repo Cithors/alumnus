@@ -1,0 +1,222 @@
+"en":
+{
+	// Pages
+	"index":[
+		// Header
+		"Chat",
+		"Students",
+		"Teachers",
+		"Events",
+		"Gallery",
+		"Contact",
+		// Carousel
+		"New school year<br><span>2019/2020</span>",
+		"<span>A living-room</span><br>for the seniors",
+		"Installing a<br><span>Snack canteen</span>",
+		"More information",
+		// Description
+		[
+			"The best learning methods",
+			"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis quasi architecto beatae vitae dicta sunt explicabo."
+		],
+		[
+			"Our students' results",
+			"Vero eos et accusamus et iusto odio dignissimos ducimus blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa."
+		],
+		// Latest news
+		"The latest news"
+		[
+			"News 2",
+			"10 SEP 2018",
+			"Anon 2",
+			"Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores (...)"
+		],
+		[
+			"News 1",
+			"22 APR 2016",
+			"Anon 1",
+			"Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores (...)"
+		],
+		"See more",
+		"See all archives",
+		// Upcoming events
+		"Upcoming events",
+		[
+			"m09",
+			"18",
+			"Information meeting",
+			"Students' parents must attend."
+		],
+		[
+			"m11",
+			"18",
+			"Deadline - First project",
+			"Deposit of the first PPE project on the design of an alumnus' site."
+		],
+		[
+			"m12",
+			"31",
+			"Contract",
+			"Everyone should have one by now."
+		],
+		[
+			"m02",
+			"07",
+			"Deadline - Second project",
+			"Deposit of the second PPE project on the design of a pharmacy's application."
+		],
+		"See more",
+		"See all events",
+		// FAQ
+		[
+			"The Frequently Asked Questions",
+			"Do you have questions ? Fill up the form and get answers in less than 24h !"
+		],
+		[
+			"Request information",
+			"Name...",
+			"Email address...",
+			[
+				"Subject 1",
+				"Subject 2",
+				"Other"
+			],
+			"Question...",
+			"Send"
+		],
+		// Footer
+		"Lycée privé et UFA Robert Schuman",
+		[
+			"Contact",
+			"5 avenue du Général De Gaulle<br>93440 Dugny",
+			"administration@lyceerobertschuman.com",
+			"01 48 37 74 26"
+		],
+		[
+			"Forum topics",
+			"Students",
+			"Teachers"
+		],
+		[
+			"Social media",
+			"Follow us on social networks !"
+		],
+		[
+			"Newsletter",
+			"Stay informed !",
+			"Email address...",
+			"Subscribe"
+		]
+	]
+},
+"fr":
+{
+	// Pages
+	"index":[
+		// Header
+		"Chat",
+		"Étudiants",
+		"Enseignants",
+		"Événements",
+		"Galerie",
+		"Contact",
+		// Carousel
+		"La rentrée<br><span>2019/2020</span>",
+		"<span>Nouvelle salle</span><br>pour les BTS",
+		"Installation d'une<br><span>cantine Snack</span>",
+		"Plus d'informations",
+		// Description
+		[
+			"Les meilleures méthodes d'apprentissage",
+			"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis quasi architecto beatae vitae dicta sunt explicabo."
+		],
+		[
+			"Les résultats de nos étudiants",
+			"Vero eos et accusamus et iusto odio dignissimos ducimus blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa."
+		],
+		// Nouvelles
+		"Les dernières nouvelles",
+		[
+			"Nouvelle 2",
+			"10 SEP 2018",
+			"Anon 2",
+			"Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores (...)"
+		],
+		[
+			"Nouvelle 1",
+			"22 AVR 2016",
+			"Anon 1",
+			"Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores (...)"
+		],
+		"Voir plus",
+		"Voir toutes les archives",
+		// Événements
+		"Prochains événements",
+		[
+			"m09",
+			"18",
+			"Réunion d'informations",
+			"Présence obligatoire des parents de l'étudiant."
+		],
+		[
+			"m11",
+			"18",
+			"Date butoire - 1er projet",
+			"Dépôt du premier projet en PPE sur la conception d'un site d'anciens élèves."
+		],
+		[
+			"m12",
+			"31",
+			"Contrat",
+			"Tout le monde devrait en avoir un à ce stade."
+		],
+		[
+			"m02",
+			"07",
+			"Date butoire - 2nd projet",
+			"Dépôt du second projet en PPE sur la conception d'une application pour une pharmacie."
+		],
+		"Voir plus",
+		"Voir tous les événements à venir",
+		// FAQ
+		[
+			"La Foire Aux Questions",
+			"Avez-vous des questions? Remplissez le formulaire et obtenez une réponse sous 24h !"
+		],
+		[
+			"Demande d'informations",
+			"Nom...",
+			"Adresse email...",
+			[
+				"Sujet 1",
+				"Sujet 2",
+				"Autre"
+			],
+			"Question...",
+			"Envoyer"
+		],
+		// Footer
+		"Lycée privé et UFA Robert Schuman",
+		[
+			"Contact",
+			"5 avenue du Général De Gaulle<br>93440 Dugny",
+			"administration@lyceerobertschuman.com",
+			"01 48 37 74 26"
+		],
+		[
+			"Sujets du forum",
+			"Étudiants",
+			"Enseignants"
+		],
+		[
+			"Les réseaux",
+			"Suivez-nous sur les réseaux sociaux !"
+		],
+		[
+			"Newsletter",
+			"Restez informés !",
+			"Adresse email...",
+			"S'abonner"
+		]
+	]
+}

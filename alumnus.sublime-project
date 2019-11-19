@@ -1,0 +1,62 @@
+{
+	"build_systems":
+    [
+        {
+            "name": "Launch Chat",
+            "shell_cmd": "php -q %CHAT%chat/server.php"
+        },
+        {
+            "name": "Run Prompt",
+            "shell_cmd": "php -q %CHAT%chat/prompt.php"
+        }
+    ],
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"env":
+		{
+			"Windows":
+			{
+				"NAME": "alumnus",
+				"WWW": "C:/wamp64/www/",
+				"ROOT": "C:/wamp64/www/alumnus/",
+				"HOME": "C:/wamp64/www/alumnus/public/",
+				"CHAT": "C:/wamp64/www/alumnus/public/chat/"
+			}
+		},
+		"debug.configurations":
+		[
+			{
+				"type": "CUSTOM",
+				"request": "attach",
+				"name": "NAME"
+			},
+			{
+				"request": "attach",
+				"port": 9222,
+				"name": "Attach to Chrome",
+				"type": "chrome",
+				"webRoot": "${workspaceFolder}"
+			},
+			{
+				"name": "Launch Alumnus",
+				"webRoot": "${workspaceFolder}",
+				"request": "launch",
+				"url": "http://localhost/alumnus",
+				"type": "chrome"
+			},
+			{
+				"name": "Launch Dir",
+				"webRoot": "${workspaceFolder}",
+				"request": "launch",
+				"url": "${workspaceFolder}/static/index.html",
+				"type": "chrome"
+			}
+		]
+	}
+}

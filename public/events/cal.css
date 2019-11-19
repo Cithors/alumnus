@@ -1,0 +1,409 @@
+#calendar .header {
+	overflow: hidden;
+	height: 45px;
+	line-height: 43px;
+	border-radius: 4px;
+	border: 1px solid #d8dbe1;
+	text-align: center;
+	font-size: 24px;
+	font-family: 'BebasNeue';
+	padding: 0 15px;
+	margin-bottom: 7px;
+}
+
+#calendar .header .right,
+#calendar .header .left {
+	background: url(../../src/images/bg_arrow_nav.png) no-repeat;
+	height: 17px;
+	width: 26px;
+	display: block;
+	float: left;
+	margin: 13px 0 -30px 0;
+	/*cursor: pointer;*/
+}
+
+#calendar .header .right {
+	float: right;
+	background-position: -26px 0;
+}
+
+.mac #calendar .head h4 {
+	padding-top: 4px;
+}
+
+#calendar .table {
+	margin: 0 -3px;
+}
+
+#calendar table.month {
+	width: 100%;
+}
+
+#calendar table.month.new {
+	-webkit-animation: fadeIn 1s ease-out;
+	opacity: 1;
+}
+
+#calendar table.month.in.next {
+	-webkit-animation: RTLinMonth .4s ease-out;
+	-moz-animation: RTLinMonth .4s ease-out;
+	animation: RTLinMonth .4s ease-out;
+	opacity: 1;
+}
+
+#calendar table.month.out.next {
+	-webkit-animation: RTLoutMonth .4s ease-in;
+	-moz-animation: RTLoutMonth .4s ease-in;
+	animation: RTLoutMonth .4s ease-in;
+	opacity: 1;
+}
+
+#calendar table.month.in.prev {
+	-webkit-animation: LTRinMonth .4s ease-out;
+	-moz-animation: LTRinMonth .4s ease-out;
+	animation: LTRinMonth .4s ease-out;
+	opacity: 1;
+}
+
+#calendar table.month.out.prev {
+	-webkit-animation: LTRoutMonth .4s ease-in;
+	-moz-animation: LTRoutMonth .4s ease-in;
+	animation: LTRoutMonth .4s ease-in;
+	opacity: 1;
+}
+
+#calendar table.month tr.week {
+}
+
+#calendar table.month tr.week th {
+	font-family: 'BebasNeue';
+	font-size: 18px;
+	line-height: 24px;
+	color: #a8adb7;
+	text-align: center;
+	padding-bottom: 3px;
+}
+
+#calendar table.month tr.week td.day {
+	font-family: 'BebasNeue';
+	font-size: 24px;
+	line-height: 46px;
+	color: #7e8798;
+	font-weight: bold;
+	text-align: center;
+}
+
+#calendar table.month tr.week td.day.other {
+	color: #c5c9d1;
+}
+
+#calendar table.month tr.week td.day.today {
+	color: #008bc4;
+}
+
+#calendar table.month tr.week td.day > div.day-number {
+	border-radius: 4px;
+	border: 1px solid #d8dbe1;
+	margin: 3px;
+	display: block;
+}
+
+.mac #calendar table.month tr.week td.day > div.day-number {
+	padding-top: 4px;
+}
+
+
+/* --- */
+	/*#calendar {
+		-webkit-transform: translate3d(0, 0, 0);
+		-moz-transform: translate3d(0, 0, 0);
+		transform: translate3d(0, 0, 0);
+		width: 420px;
+		margin: 0 auto;
+		height: 570px;
+		overflow: hidden;
+	}
+
+	.header {
+		height: 50px;
+		width: 420px;
+		background: rgba(66, 66, 66, 1);
+		text-align: center;
+		position:relative;
+		z-index: 100;
+	}
+
+	.header h1 {
+		margin: 0;
+		padding: 0;
+		font-size: 20px;
+		line-height: 50px;
+		font-weight: 100;
+		letter-spacing: 1px;
+	}*/
+
+	/*.left, .right {
+		position: absolute;
+		width: 0px;
+		height: 0px;
+		border-style: solid;
+		top: 50%;
+		margin-top: -7.5px;
+		cursor: pointer;
+	}
+
+	.left {
+		border-width: 7.5px 10px 7.5px 0;
+		border-color: transparent rgba(160, 159, 160, 1) transparent transparent;
+		left: 20px;
+	}
+
+	.right {
+		border-width: 7.5px 0 7.5px 10px;
+		border-color: transparent transparent transparent rgba(160, 159, 160, 1);
+		right: 20px;
+	}
+	#calendar table.month tr.week td.day {
+		display: inline-block;
+		width: 60px;
+		padding: 10px;
+		text-align: center;
+		vertical-align: top;
+		cursor: pointer;
+		background: #4A4A4A;
+		position: relative;
+		z-index: 100;
+	}*/
+
+
+
+#calendar table.month tr.week td.day .day-events {
+	list-style: none;
+	margin-top: 3px;
+	text-align: center;
+	height: 12px;
+	line-height: 6px;
+	overflow: hidden;
+}
+
+#calendar table.month tr.week td.day .day-events span {
+	vertical-align: top;
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+	width: 5px;
+	height: 5px;
+	line-height: 5px;
+	margin: 0 1px;
+}
+
+.blue { background: rgba(156, 202, 235, 1); }
+.orange { background: rgba(247, 167, 0, 1); }
+.green { background: rgba(153, 198, 109, 1); }
+.yellow { background: rgba(249, 233, 0, 1); }
+
+.details {
+	display: none; /* Remove this one */
+	position: relative;
+	width: 420px;
+	height: 75px;
+	background: #2c4167;
+	color: #fff;
+	margin-top: 5px;
+	border-radius: 4px;
+}
+
+.details.in {
+	-webkit-animation: moveFromTopFade .5s ease both;
+	-moz-animation: moveFromTopFade .5s ease both;
+	animation: moveFromTopFade .5s ease both;
+}
+
+.details.out {
+	-webkit-animation: moveToTopFade .5s ease both;
+	-moz-animation: moveToTopFade .5s ease both;
+	animation: moveToTopFade .5s ease both;
+}
+
+#calendar table.month tr.week .arrow {
+	position: absolute;
+	top: -5px;
+	left: 50%;
+	margin-left: -2px;
+	width: 0px;
+	height: 0px;
+	border-style: solid;
+	border-width: 0 5px 5px 5px;
+	border-color: transparent transparent #2b4167 transparent;
+	transition: all 0.7s ease;
+}
+
+.events {
+	height: 75px;
+	padding: 7px 0;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+
+.events.in {
+	-webkit-animation: fadeIn .3s ease both;
+	-moz-animation: fadeIn .3s ease both;
+	animation: fadeIn .3s ease both;
+}
+
+.events.in {
+	-webkit-animation-delay: .3s;
+	-moz-animation-delay: .3s;
+	animation-delay: .3s;
+}
+
+.details.out .events {
+	-webkit-animation: fadeOutShrink .4s ease both;
+	-moz-animation: fadeOutShrink .4s ease both;
+	animation: fadeOutShrink .4s ease both;
+}
+
+.events.out {
+	-webkit-animation: fadeOut .3s ease both;
+	-moz-animation: fadeOut .3s ease both;
+	animation: fadeOut .3s ease both;
+}
+
+.event {
+	font-size: 16px;
+	line-height: 22px;
+	letter-spacing: .5px;
+	padding: 2px 16px;
+	vertical-align: top;
+}
+
+.event.empty {
+	color: #eee;
+}
+
+.event-category {
+	height: 10px;
+	width: 10px;
+	display: inline-block;
+	margin: 6px 0 0;
+	vertical-align: top;
+}
+
+.event span {
+	display: inline-block;
+	padding: 0 0 0 7px;
+}
+
+.legend {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 30px;
+	background: rgba(60, 60, 60, 1);
+	line-height: 30px;
+
+}
+
+.entry {
+	position: relative;
+	padding: 0 0 0 25px;
+	font-size: 13px;
+	display: inline-block;
+	line-height: 30px;
+	background: transparent;
+}
+
+.entry:after {
+	position: absolute;
+	content: '';
+	height: 5px;
+	width: 5px;
+	top: 12px;
+	left: 14px;
+}
+
+.entry.blue:after { background: rgba(156, 202, 235, 1); }
+.entry.orange:after { background: rgba(247, 167, 0, 1); }
+.entry.green:after { background: rgba(153, 198, 109, 1); }
+.entry.yellow:after { background: rgba(249, 233, 0, 1); }
+
+/* Slide down */
+@-webkit-keyframes moveFromTopFade {
+	from { opacity: .3; height:0px; margin-top:0px; -webkit-transform: translateY(-100%); }
+}
+@-moz-keyframes moveFromTopFade {
+	from { height:0px; margin-top:0px; -moz-transform: translateY(-100%); }
+}
+@keyframes moveFromTopFade {
+	from { height:0px; margin-top:0px; transform: translateY(-100%); }
+}
+
+/* Slide up */
+@-webkit-keyframes moveToTopFade {
+	to { opacity: .3; height:0px; margin-top:0px; opacity: 0.3; -webkit-transform: translateY(-100%); }
+}
+@-moz-keyframes moveToTopFade {
+	to { height:0px; -moz-transform: translateY(-100%); }
+}
+@keyframes moveToTopFade {
+	to { height:0px; transform: translateY(-100%); }
+}
+
+/* Previous month - In */
+@-webkit-keyframes LTRinMonth {
+	from { opacity: 0; -webkit-transform: translateX(-30%) scale(.95); }
+}
+@-moz-keyframes LTRinMonth {
+	from { opacity: 0; -webkit-transform: translateX(-30%); }
+}
+@keyframes LTRinMonth {
+	from { opacity: 0; -webkit-transform: translateX(-30%); }
+}
+
+/* Previous month - Out */
+@-webkit-keyframes LTRoutMonth {
+	to { opacity: 0; -webkit-transform: translateX(30%) scale(.95); }
+}
+@-moz-keyframes LTRoutMonth {
+	to { opacity: 0; -webkit-transform: translateX(30%); }
+}
+@keyframes LTRoutMonth {
+	to { opacity: 0; -webkit-transform: translateX(30%); }
+}
+
+/* Next month - In */
+@-webkit-keyframes RTLinMonth {
+	from { opacity: 0; -webkit-transform: translateX(30%) scale(.95); }
+}
+@-moz-keyframes RTLinMonth {
+	from { opacity: 0; -moz-transform: translateX(30%); }
+}
+@keyframes RTLinMonth {
+	from { opacity: 0; -moz-transform: translateX(30%); }
+}
+
+/* Next month - Out */
+@-webkit-keyframes RTLoutMonth {
+	to { opacity: 0; -webkit-transform: translateY(-30%) scale(.95); }
+}
+@-moz-keyframes RTLoutMonth {
+	to { opacity: 0; -moz-transform: translateY(-30%); }
+}
+@keyframes RTLoutMonth {
+	to { opacity: 0; -moz-transform: translateY(-30%); }
+}
+
+/* Fade In */
+@-webkit-keyframes fadeIn { from { opacity: 0; } }
+@-moz-keyframes fadeIn { from { opacity: 0; } }
+@keyframes fadeIn { from { opacity: 0; } }
+
+/* Fade Out */
+@-webkit-keyframes fadeOut { to { opacity: 0; } }
+@-moz-keyframes fadeOut { to { opacity: 0; } }
+@keyframes fadeOut { to { opacity: 0; } }
+
+/* Shrink Out */
+@-webkit-keyframes fadeOutShrink { to { opacity: 0; padding: 0px; height: 0px; } }
+@-moz-keyframes fadeOutShrink { to { opacity: 0; padding: 0px; height: 0px; } }
+@keyframes fadeOutShrink { to { opacity: 0; padding: 0px; height: 0px; } }

@@ -1,0 +1,24 @@
+{
+	"en":[
+		{
+			"index":
+				[
+					"temp",
+					"temp_min",
+					"temp_max",
+					"pressure",
+					"sea_level",
+					"grnd_level",
+					"humidity",
+					"temp_kf"
+				],
+			"weather":
+				[
+					"id",
+					"main",
+					"description",
+					"icon"
+				]
+		}
+	]
+}
